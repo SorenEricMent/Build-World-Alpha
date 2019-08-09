@@ -1,0 +1,1 @@
+blocks/stone.bmp
