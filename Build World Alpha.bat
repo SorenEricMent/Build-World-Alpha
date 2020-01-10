@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 set handblock=blocks/stone.bmp
-set Version=Alpha Build89154_b
+set Version=Alpha Build89158
 set Copyright=WinslowSorenEricMent
 set /a time=0
 set Command_dir=command/
@@ -28,8 +28,9 @@ mode con cols=120 lines=35
 title Build World %Version%
 del updataTF.txt
 del updata.bat
+
 image gui/start.bmp 0 0
-powershell sleep 2
+powershell sleep 1
 goto GUI_l
 :GUI_l
 for /l %%i in (0,30,540) do (
@@ -85,11 +86,6 @@ set /a mapLoadery+=30
 		if !mapLoaderx! == 900 set /a mapLoaderx=0
 	)
 )
-for /l %%i in (30,30,420) do (
-	for /l %%j in (30,30,900) do (
-	image blocks/NULL.bmp %%j %%i
-	)
-)
 for /l %%i in (390,30,540) do (
 	imageplus !bar! %%i 450 30 30
 )
@@ -102,6 +98,7 @@ set /a barer1+=30
 goto RenderingMap
 
 :RenderingMap 
+image /l  temp/render/null.bwdata
 image /l  temp/render/map.bwdata
 
 image blocks/code_block.bmp 0 0
