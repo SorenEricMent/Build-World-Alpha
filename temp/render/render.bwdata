@@ -1,0 +1,3460 @@
+./blocks/rose_pyroxene.bmp 0 0
+./blocks/stone.bmp 30 0
+./blocks/air.bmp 60 0
+./blocks/obsidian.bmp	 90 0
+./blocks/dirt.bmp	 120 0
+./blocks/dirt.bmp	 150 0
+./blocks/stone.bmp 180 0
+./blocks/coal_block.bmp 210 0
+./blocks/coal_ore.bmp 240 0
+./blocks/coal_ore.bmp 270 0
+./blocks/brick.bmp 300 0
+./blocks/grass_block.bmp	 330 0
+./blocks/coal_block.bmp 360 0
+./blocks/stone.bmp 390 0
+./blocks/obsidian.bmp	 420 0
+./blocks/cobblestone.bmp 450 0
+./blocks/rose_pyroxene.bmp 480 0
+./blocks/rose_pyroxene.bmp 510 0
+./blocks/cobblestone.bmp 540 0
+./blocks/stone.bmp 570 0
+./blocks/coal_ore.bmp 600 0
+./blocks/coal_ore.bmp 630 0
+./blocks/air.bmp 660 0
+./blocks/obsidian.bmp	 690 0
+./blocks/grass_block.bmp	 720 0
+./blocks/cobblestone.bmp 750 0
+./blocks/rose_pyroxene.bmp 780 0
+./blocks/obsidian.bmp	 810 0
+./blocks/brick.bmp 840 0
+./blocks/cobblestone.bmp 870 0
+./blocks/rose_pyroxene.bmp 900 0
+./blocks/brick.bmp 930 0
+./blocks/grass_block.bmp	 0 30
+./blocks/dirt.bmp	 30 30
+./blocks/grass_block.bmp	 60 30
+./blocks/stone.bmp 90 30
+./blocks/obsidian.bmp	 120 30
+./blocks/grass_block.bmp	 150 30
+./blocks/dirt.bmp	 180 30
+./blocks/rose_pyroxene.bmp 210 30
+./blocks/brick.bmp 240 30
+./blocks/dirt.bmp	 270 30
+./blocks/grass_block.bmp	 300 30
+./blocks/grass_block.bmp	 330 30
+./blocks/obsidian.bmp	 360 30
+./blocks/grass_block.bmp	 390 30
+./blocks/dirt.bmp	 420 30
+./blocks/grass_block.bmp	 450 30
+./blocks/obsidian.bmp	 480 30
+./blocks/coal_ore.bmp 510 30
+./blocks/dirt.bmp	 540 30
+./blocks/air.bmp 570 30
+./blocks/obsidian.bmp	 600 30
+./blocks/coal_block.bmp 630 30
+./blocks/coal_ore.bmp 660 30
+./blocks/stone.bmp 690 30
+./blocks/obsidian.bmp	 720 30
+./blocks/brick.bmp 750 30
+./blocks/obsidian.bmp	 780 30
+./blocks/dirt.bmp	 810 30
+./blocks/cobblestone.bmp 840 30
+./blocks/cobblestone.bmp 870 30
+./blocks/coal_block.bmp 900 30
+./blocks/cobblestone.bmp 930 30
+./blocks/coal_ore.bmp 0 60
+./blocks/air.bmp 30 60
+./blocks/obsidian.bmp	 60 60
+./blocks/code_block.bmp 90 60
+./blocks/obsidian.bmp	 120 60
+./blocks/stone.bmp 150 60
+./blocks/code_block.bmp 180 60
+./blocks/coal_block.bmp 210 60
+./blocks/grass_block.bmp	 240 60
+./blocks/coal_ore.bmp 270 60
+./blocks/stone.bmp 300 60
+./blocks/air.bmp 330 60
+./blocks/code_block.bmp 360 60
+./blocks/cobblestone.bmp 390 60
+./blocks/code_block.bmp 420 60
+./blocks/air.bmp 450 60
+./blocks/dirt.bmp	 480 60
+./blocks/air.bmp 510 60
+./blocks/code_block.bmp 540 60
+./blocks/dirt.bmp	 570 60
+./blocks/code_block.bmp 600 60
+./blocks/grass_block.bmp	 630 60
+./blocks/coal_ore.bmp 660 60
+./blocks/air.bmp 690 60
+./blocks/cobblestone.bmp 720 60
+./blocks/coal_ore.bmp 750 60
+./blocks/coal_ore.bmp 780 60
+./blocks/cobblestone.bmp 810 60
+./blocks/dirt.bmp	 840 60
+./blocks/brick.bmp 870 60
+./blocks/coal_ore.bmp 900 60
+./blocks/brick.bmp 930 60
+./blocks/coal_block.bmp 0 90
+./blocks/coal_ore.bmp 30 90
+./blocks/coal_block.bmp 60 90
+./blocks/coal_ore.bmp 90 90
+./blocks/brick.bmp 120 90
+./blocks/obsidian.bmp	 150 90
+./blocks/coal_ore.bmp 180 90
+./blocks/dirt.bmp	 210 90
+./blocks/rose_pyroxene.bmp 240 90
+./blocks/rose_pyroxene.bmp 270 90
+./blocks/code_block.bmp 300 90
+./blocks/air.bmp 330 90
+./blocks/coal_block.bmp 360 90
+./blocks/stone.bmp 390 90
+./blocks/code_block.bmp 420 90
+./blocks/coal_block.bmp 450 90
+./blocks/cobblestone.bmp 480 90
+./blocks/coal_ore.bmp 510 90
+./blocks/code_block.bmp 540 90
+./blocks/air.bmp 570 90
+./blocks/stone.bmp 600 90
+./blocks/brick.bmp 630 90
+./blocks/grass_block.bmp	 660 90
+./blocks/grass_block.bmp	 690 90
+./blocks/dirt.bmp	 720 90
+./blocks/obsidian.bmp	 750 90
+./blocks/coal_ore.bmp 780 90
+./blocks/dirt.bmp	 810 90
+./blocks/brick.bmp 840 90
+./blocks/grass_block.bmp	 870 90
+./blocks/code_block.bmp 900 90
+./blocks/coal_ore.bmp 930 90
+./blocks/coal_ore.bmp 0 120
+./blocks/coal_ore.bmp 30 120
+./blocks/coal_ore.bmp 60 120
+./blocks/stone.bmp 90 120
+./blocks/grass_block.bmp	 120 120
+./blocks/rose_pyroxene.bmp 150 120
+./blocks/stone.bmp 180 120
+./blocks/grass_block.bmp	 210 120
+./blocks/cobblestone.bmp 240 120
+./blocks/coal_block.bmp 270 120
+./blocks/dirt.bmp	 300 120
+./blocks/coal_block.bmp 330 120
+./blocks/rose_pyroxene.bmp 360 120
+./blocks/coal_block.bmp 390 120
+./blocks/code_block.bmp 420 120
+./blocks/stone.bmp 450 120
+./blocks/grass_block.bmp	 480 120
+./blocks/cobblestone.bmp 510 120
+./blocks/brick.bmp 540 120
+./blocks/brick.bmp 570 120
+./blocks/air.bmp 600 120
+./blocks/air.bmp 630 120
+./blocks/stone.bmp 660 120
+./blocks/code_block.bmp 690 120
+./blocks/brick.bmp 720 120
+./blocks/coal_ore.bmp 750 120
+./blocks/obsidian.bmp	 780 120
+./blocks/code_block.bmp 810 120
+./blocks/coal_ore.bmp 840 120
+./blocks/code_block.bmp 870 120
+./blocks/obsidian.bmp	 900 120
+./blocks/rose_pyroxene.bmp 930 120
+./blocks/stone.bmp 0 150
+./blocks/coal_ore.bmp 30 150
+./blocks/stone.bmp 60 150
+./blocks/cobblestone.bmp 90 150
+./blocks/brick.bmp 120 150
+./blocks/grass_block.bmp	 150 150
+./blocks/stone.bmp 180 150
+./blocks/cobblestone.bmp 210 150
+./blocks/obsidian.bmp	 240 150
+./blocks/brick.bmp 270 150
+./blocks/coal_block.bmp 300 150
+./blocks/brick.bmp 330 150
+./blocks/coal_ore.bmp 360 150
+./blocks/brick.bmp 390 150
+./blocks/grass_block.bmp	 420 150
+./blocks/grass_block.bmp	 450 150
+./blocks/brick.bmp 480 150
+./blocks/stone.bmp 510 150
+./blocks/dirt.bmp	 540 150
+./blocks/coal_block.bmp 570 150
+./blocks/air.bmp 600 150
+./blocks/cobblestone.bmp 630 150
+./blocks/obsidian.bmp	 660 150
+./blocks/grass_block.bmp	 690 150
+./blocks/brick.bmp 720 150
+./blocks/air.bmp 750 150
+./blocks/cobblestone.bmp 780 150
+./blocks/cobblestone.bmp 810 150
+./blocks/stone.bmp 840 150
+./blocks/cobblestone.bmp 870 150
+./blocks/rose_pyroxene.bmp 900 150
+./blocks/brick.bmp 930 150
+./blocks/grass_block.bmp	 0 180
+./blocks/dirt.bmp	 30 180
+./blocks/air.bmp 60 180
+./blocks/stone.bmp 90 180
+./blocks/stone.bmp 120 180
+./blocks/code_block.bmp 150 180
+./blocks/coal_ore.bmp 180 180
+./blocks/grass_block.bmp	 210 180
+./blocks/code_block.bmp 240 180
+./blocks/cobblestone.bmp 270 180
+./blocks/grass_block.bmp	 300 180
+./blocks/obsidian.bmp	 330 180
+./blocks/air.bmp 360 180
+./blocks/obsidian.bmp	 390 180
+./blocks/coal_ore.bmp 420 180
+./blocks/air.bmp 450 180
+./blocks/dirt.bmp	 480 180
+./blocks/coal_ore.bmp 510 180
+./blocks/grass_block.bmp	 540 180
+./blocks/code_block.bmp 570 180
+./blocks/grass_block.bmp	 600 180
+./blocks/air.bmp 630 180
+./blocks/code_block.bmp 660 180
+./blocks/rose_pyroxene.bmp 690 180
+./blocks/coal_ore.bmp 720 180
+./blocks/grass_block.bmp	 750 180
+./blocks/coal_ore.bmp 780 180
+./blocks/cobblestone.bmp 810 180
+./blocks/dirt.bmp	 840 180
+./blocks/rose_pyroxene.bmp 870 180
+./blocks/stone.bmp 900 180
+./blocks/air.bmp 930 180
+./blocks/coal_ore.bmp 0 210
+./blocks/coal_ore.bmp 30 210
+./blocks/air.bmp 60 210
+./blocks/code_block.bmp 90 210
+./blocks/obsidian.bmp	 120 210
+./blocks/air.bmp 150 210
+./blocks/dirt.bmp	 180 210
+./blocks/rose_pyroxene.bmp 210 210
+./blocks/coal_block.bmp 240 210
+./blocks/coal_block.bmp 270 210
+./blocks/obsidian.bmp	 300 210
+./blocks/brick.bmp 330 210
+./blocks/stone.bmp 360 210
+./blocks/rose_pyroxene.bmp 390 210
+./blocks/stone.bmp 420 210
+./blocks/brick.bmp 450 210
+./blocks/coal_ore.bmp 480 210
+./blocks/cobblestone.bmp 510 210
+./blocks/cobblestone.bmp 540 210
+./blocks/air.bmp 570 210
+./blocks/obsidian.bmp	 600 210
+./blocks/cobblestone.bmp 630 210
+./blocks/coal_block.bmp 660 210
+./blocks/coal_ore.bmp 690 210
+./blocks/cobblestone.bmp 720 210
+./blocks/coal_block.bmp 750 210
+./blocks/grass_block.bmp	 780 210
+./blocks/grass_block.bmp	 810 210
+./blocks/cobblestone.bmp 840 210
+./blocks/stone.bmp 870 210
+./blocks/coal_ore.bmp 900 210
+./blocks/cobblestone.bmp 930 210
+./blocks/coal_block.bmp 0 240
+./blocks/dirt.bmp	 30 240
+./blocks/cobblestone.bmp 60 240
+./blocks/code_block.bmp 90 240
+./blocks/stone.bmp 120 240
+./blocks/stone.bmp 150 240
+./blocks/dirt.bmp	 180 240
+./blocks/air.bmp 210 240
+./blocks/dirt.bmp	 240 240
+./blocks/coal_ore.bmp 270 240
+./blocks/air.bmp 300 240
+./blocks/air.bmp 330 240
+./blocks/cobblestone.bmp 360 240
+./blocks/coal_ore.bmp 390 240
+./blocks/rose_pyroxene.bmp 420 240
+./blocks/coal_ore.bmp 450 240
+./blocks/obsidian.bmp	 480 240
+./blocks/code_block.bmp 510 240
+./blocks/obsidian.bmp	 540 240
+./blocks/obsidian.bmp	 570 240
+./blocks/air.bmp 600 240
+./blocks/dirt.bmp	 630 240
+./blocks/coal_ore.bmp 660 240
+./blocks/grass_block.bmp	 690 240
+./blocks/brick.bmp 720 240
+./blocks/dirt.bmp	 750 240
+./blocks/obsidian.bmp	 780 240
+./blocks/air.bmp 810 240
+./blocks/grass_block.bmp	 840 240
+./blocks/code_block.bmp 870 240
+./blocks/stone.bmp 900 240
+./blocks/dirt.bmp	 930 240
+./blocks/obsidian.bmp	 0 270
+./blocks/coal_ore.bmp 30 270
+./blocks/code_block.bmp 60 270
+./blocks/stone.bmp 90 270
+./blocks/coal_ore.bmp 120 270
+./blocks/coal_block.bmp 150 270
+./blocks/rose_pyroxene.bmp 180 270
+./blocks/obsidian.bmp	 210 270
+./blocks/obsidian.bmp	 240 270
+./blocks/coal_block.bmp 270 270
+./blocks/dirt.bmp	 300 270
+./blocks/dirt.bmp	 330 270
+./blocks/grass_block.bmp	 360 270
+./blocks/coal_block.bmp 390 270
+./blocks/brick.bmp 420 270
+./blocks/air.bmp 450 270
+./blocks/grass_block.bmp	 480 270
+./blocks/dirt.bmp	 510 270
+./blocks/stone.bmp 540 270
+./blocks/dirt.bmp	 570 270
+./blocks/coal_block.bmp 600 270
+./blocks/obsidian.bmp	 630 270
+./blocks/air.bmp 660 270
+./blocks/brick.bmp 690 270
+./blocks/cobblestone.bmp 720 270
+./blocks/dirt.bmp	 750 270
+./blocks/stone.bmp 780 270
+./blocks/coal_block.bmp 810 270
+./blocks/air.bmp 840 270
+./blocks/coal_block.bmp 870 270
+./blocks/coal_block.bmp 900 270
+./blocks/grass_block.bmp	 930 270
+./blocks/dirt.bmp	 0 300
+./blocks/brick.bmp 30 300
+./blocks/coal_block.bmp 60 300
+./blocks/coal_block.bmp 90 300
+./blocks/code_block.bmp 120 300
+./blocks/brick.bmp 150 300
+./blocks/grass_block.bmp	 180 300
+./blocks/obsidian.bmp	 210 300
+./blocks/rose_pyroxene.bmp 240 300
+./blocks/coal_block.bmp 270 300
+./blocks/grass_block.bmp	 300 300
+./blocks/dirt.bmp	 330 300
+./blocks/coal_block.bmp 360 300
+./blocks/coal_block.bmp 390 300
+./blocks/coal_block.bmp 420 300
+./blocks/cobblestone.bmp 450 300
+./blocks/code_block.bmp 480 300
+./blocks/grass_block.bmp	 510 300
+./blocks/coal_ore.bmp 540 300
+./blocks/grass_block.bmp	 570 300
+./blocks/air.bmp 600 300
+./blocks/dirt.bmp	 630 300
+./blocks/coal_block.bmp 660 300
+./blocks/coal_ore.bmp 690 300
+./blocks/coal_ore.bmp 720 300
+./blocks/dirt.bmp	 750 300
+./blocks/rose_pyroxene.bmp 780 300
+./blocks/code_block.bmp 810 300
+./blocks/obsidian.bmp	 840 300
+./blocks/rose_pyroxene.bmp 870 300
+./blocks/grass_block.bmp	 900 300
+./blocks/dirt.bmp	 930 300
+./blocks/coal_ore.bmp 0 330
+./blocks/dirt.bmp	 30 330
+./blocks/grass_block.bmp	 60 330
+./blocks/dirt.bmp	 90 330
+./blocks/cobblestone.bmp 120 330
+./blocks/rose_pyroxene.bmp 150 330
+./blocks/cobblestone.bmp 180 330
+./blocks/coal_block.bmp 210 330
+./blocks/coal_block.bmp 240 330
+./blocks/brick.bmp 270 330
+./blocks/obsidian.bmp	 300 330
+./blocks/coal_block.bmp 330 330
+./blocks/coal_ore.bmp 360 330
+./blocks/obsidian.bmp	 390 330
+./blocks/obsidian.bmp	 420 330
+./blocks/brick.bmp 450 330
+./blocks/stone.bmp 480 330
+./blocks/air.bmp 510 330
+./blocks/rose_pyroxene.bmp 540 330
+./blocks/dirt.bmp	 570 330
+./blocks/grass_block.bmp	 600 330
+./blocks/cobblestone.bmp 630 330
+./blocks/cobblestone.bmp 660 330
+./blocks/obsidian.bmp	 690 330
+./blocks/code_block.bmp 720 330
+./blocks/cobblestone.bmp 750 330
+./blocks/cobblestone.bmp 780 330
+./blocks/code_block.bmp 810 330
+./blocks/air.bmp 840 330
+./blocks/brick.bmp 870 330
+./blocks/obsidian.bmp	 900 330
+./blocks/grass_block.bmp	 930 330
+./blocks/air.bmp 0 360
+./blocks/code_block.bmp 30 360
+./blocks/dirt.bmp	 60 360
+./blocks/cobblestone.bmp 90 360
+./blocks/rose_pyroxene.bmp 120 360
+./blocks/air.bmp 150 360
+./blocks/stone.bmp 180 360
+./blocks/coal_ore.bmp 210 360
+./blocks/obsidian.bmp	 240 360
+./blocks/grass_block.bmp	 270 360
+./blocks/coal_block.bmp 300 360
+./blocks/cobblestone.bmp 330 360
+./blocks/dirt.bmp	 360 360
+./blocks/stone.bmp 390 360
+./blocks/coal_block.bmp 420 360
+./blocks/brick.bmp 450 360
+./blocks/coal_ore.bmp 480 360
+./blocks/dirt.bmp	 510 360
+./blocks/cobblestone.bmp 540 360
+./blocks/air.bmp 570 360
+./blocks/code_block.bmp 600 360
+./blocks/obsidian.bmp	 630 360
+./blocks/coal_block.bmp 660 360
+./blocks/brick.bmp 690 360
+./blocks/obsidian.bmp	 720 360
+./blocks/obsidian.bmp	 750 360
+./blocks/grass_block.bmp	 780 360
+./blocks/air.bmp 810 360
+./blocks/brick.bmp 840 360
+./blocks/cobblestone.bmp 870 360
+./blocks/dirt.bmp	 900 360
+./blocks/dirt.bmp	 930 360
+./blocks/dirt.bmp	 0 390
+./blocks/rose_pyroxene.bmp 30 390
+./blocks/rose_pyroxene.bmp 60 390
+./blocks/brick.bmp 90 390
+./blocks/air.bmp 120 390
+./blocks/brick.bmp 150 390
+./blocks/coal_block.bmp 180 390
+./blocks/brick.bmp 210 390
+./blocks/stone.bmp 240 390
+./blocks/coal_ore.bmp 270 390
+./blocks/coal_ore.bmp 300 390
+./blocks/coal_ore.bmp 330 390
+./blocks/brick.bmp 360 390
+./blocks/brick.bmp 390 390
+./blocks/code_block.bmp 420 390
+./blocks/obsidian.bmp	 450 390
+./blocks/stone.bmp 480 390
+./blocks/obsidian.bmp	 510 390
+./blocks/coal_ore.bmp 540 390
+./blocks/rose_pyroxene.bmp 570 390
+./blocks/brick.bmp 600 390
+./blocks/cobblestone.bmp 630 390
+./blocks/code_block.bmp 660 390
+./blocks/obsidian.bmp	 690 390
+./blocks/coal_block.bmp 720 390
+./blocks/stone.bmp 750 390
+./blocks/cobblestone.bmp 780 390
+./blocks/grass_block.bmp	 810 390
+./blocks/dirt.bmp	 840 390
+./blocks/grass_block.bmp	 870 390
+./blocks/dirt.bmp	 900 390
+./blocks/grass_block.bmp	 930 390
+./blocks/air.bmp 0 420
+./blocks/code_block.bmp 30 420
+./blocks/air.bmp 60 420
+./blocks/air.bmp 90 420
+./blocks/coal_block.bmp 120 420
+./blocks/dirt.bmp	 150 420
+./blocks/coal_block.bmp 180 420
+./blocks/brick.bmp 210 420
+./blocks/brick.bmp 240 420
+./blocks/obsidian.bmp	 270 420
+./blocks/stone.bmp 300 420
+./blocks/coal_block.bmp 330 420
+./blocks/rose_pyroxene.bmp 360 420
+./blocks/coal_ore.bmp 390 420
+./blocks/coal_ore.bmp 420 420
+./blocks/rose_pyroxene.bmp 450 420
+./blocks/code_block.bmp 480 420
+./blocks/code_block.bmp 510 420
+./blocks/coal_ore.bmp 540 420
+./blocks/cobblestone.bmp 570 420
+./blocks/cobblestone.bmp 600 420
+./blocks/brick.bmp 630 420
+./blocks/grass_block.bmp	 660 420
+./blocks/coal_ore.bmp 690 420
+./blocks/dirt.bmp	 720 420
+./blocks/rose_pyroxene.bmp 750 420
+./blocks/air.bmp 780 420
+./blocks/stone.bmp 810 420
+./blocks/coal_block.bmp 840 420
+./blocks/coal_block.bmp 870 420
+./blocks/grass_block.bmp	 900 420
+./blocks/grass_block.bmp	 930 420
+./blocks/air.bmp 0 450
+./blocks/coal_block.bmp 30 450
+./blocks/obsidian.bmp	 60 450
+./blocks/air.bmp 90 450
+./blocks/brick.bmp 120 450
+./blocks/coal_block.bmp 150 450
+./blocks/coal_block.bmp 180 450
+./blocks/cobblestone.bmp 210 450
+./blocks/dirt.bmp	 240 450
+./blocks/grass_block.bmp	 270 450
+./blocks/brick.bmp 300 450
+./blocks/brick.bmp 330 450
+./blocks/rose_pyroxene.bmp 360 450
+./blocks/rose_pyroxene.bmp 390 450
+./blocks/brick.bmp 420 450
+./blocks/stone.bmp 450 450
+./blocks/dirt.bmp	 480 450
+./blocks/obsidian.bmp	 510 450
+./blocks/grass_block.bmp	 540 450
+./blocks/stone.bmp 570 450
+./blocks/coal_ore.bmp 600 450
+./blocks/cobblestone.bmp 630 450
+./blocks/rose_pyroxene.bmp 660 450
+./blocks/brick.bmp 690 450
+./blocks/coal_block.bmp 720 450
+./blocks/code_block.bmp 750 450
+./blocks/coal_ore.bmp 780 450
+./blocks/coal_ore.bmp 810 450
+./blocks/air.bmp 840 450
+./blocks/rose_pyroxene.bmp 870 450
+./blocks/rose_pyroxene.bmp 900 450
+./blocks/cobblestone.bmp 930 450
+./blocks/stone.bmp 0 480
+./blocks/coal_ore.bmp 30 480
+./blocks/coal_block.bmp 60 480
+./blocks/brick.bmp 90 480
+./blocks/grass_block.bmp	 120 480
+./blocks/grass_block.bmp	 150 480
+./blocks/coal_ore.bmp 180 480
+./blocks/coal_ore.bmp 210 480
+./blocks/obsidian.bmp	 240 480
+./blocks/dirt.bmp	 270 480
+./blocks/coal_ore.bmp 300 480
+./blocks/brick.bmp 330 480
+./blocks/grass_block.bmp	 360 480
+./blocks/air.bmp 390 480
+./blocks/rose_pyroxene.bmp 420 480
+./blocks/stone.bmp 450 480
+./blocks/coal_ore.bmp 480 480
+./blocks/obsidian.bmp	 510 480
+./blocks/obsidian.bmp	 540 480
+./blocks/grass_block.bmp	 570 480
+./blocks/obsidian.bmp	 600 480
+./blocks/coal_ore.bmp 630 480
+./blocks/cobblestone.bmp 660 480
+./blocks/cobblestone.bmp 690 480
+./blocks/obsidian.bmp	 720 480
+./blocks/brick.bmp 750 480
+./blocks/coal_block.bmp 780 480
+./blocks/rose_pyroxene.bmp 810 480
+./blocks/rose_pyroxene.bmp 840 480
+./blocks/cobblestone.bmp 870 480
+./blocks/code_block.bmp 900 480
+./blocks/brick.bmp 930 480
+./blocks/grass_block.bmp	 0 510
+./blocks/code_block.bmp 30 510
+./blocks/obsidian.bmp	 60 510
+./blocks/coal_ore.bmp 90 510
+./blocks/grass_block.bmp	 120 510
+./blocks/code_block.bmp 150 510
+./blocks/air.bmp 180 510
+./blocks/dirt.bmp	 210 510
+./blocks/grass_block.bmp	 240 510
+./blocks/grass_block.bmp	 270 510
+./blocks/air.bmp 300 510
+./blocks/cobblestone.bmp 330 510
+./blocks/stone.bmp 360 510
+./blocks/grass_block.bmp	 390 510
+./blocks/grass_block.bmp	 420 510
+./blocks/air.bmp 450 510
+./blocks/air.bmp 480 510
+./blocks/dirt.bmp	 510 510
+./blocks/air.bmp 540 510
+./blocks/code_block.bmp 570 510
+./blocks/brick.bmp 600 510
+./blocks/coal_block.bmp 630 510
+./blocks/code_block.bmp 660 510
+./blocks/code_block.bmp 690 510
+./blocks/grass_block.bmp	 720 510
+./blocks/rose_pyroxene.bmp 750 510
+./blocks/brick.bmp 780 510
+./blocks/grass_block.bmp	 810 510
+./blocks/air.bmp 840 510
+./blocks/brick.bmp 870 510
+./blocks/cobblestone.bmp 900 510
+./blocks/coal_ore.bmp 930 510
+./blocks/cobblestone.bmp 0 540
+./blocks/code_block.bmp 30 540
+./blocks/brick.bmp 60 540
+./blocks/coal_ore.bmp 90 540
+./blocks/coal_ore.bmp 120 540
+./blocks/cobblestone.bmp 150 540
+./blocks/stone.bmp 180 540
+./blocks/air.bmp 210 540
+./blocks/rose_pyroxene.bmp 240 540
+./blocks/brick.bmp 270 540
+./blocks/coal_block.bmp 300 540
+./blocks/code_block.bmp 330 540
+./blocks/dirt.bmp	 360 540
+./blocks/air.bmp 390 540
+./blocks/rose_pyroxene.bmp 420 540
+./blocks/obsidian.bmp	 450 540
+./blocks/coal_block.bmp 480 540
+./blocks/dirt.bmp	 510 540
+./blocks/coal_ore.bmp 540 540
+./blocks/coal_block.bmp 570 540
+./blocks/coal_block.bmp 600 540
+./blocks/code_block.bmp 630 540
+./blocks/rose_pyroxene.bmp 660 540
+./blocks/stone.bmp 690 540
+./blocks/air.bmp 720 540
+./blocks/grass_block.bmp	 750 540
+./blocks/air.bmp 780 540
+./blocks/brick.bmp 810 540
+./blocks/stone.bmp 840 540
+./blocks/coal_ore.bmp 870 540
+./blocks/coal_ore.bmp 900 540
+./blocks/brick.bmp 930 540
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/clode_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp 
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/air.bmp
+blocks/air.bmp 
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/grass_block.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/air.bmp
+blocks/grass_block.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/dirt.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/grass_block.bmp
+blocks/dirt.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/dirt.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/stone.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+blocks/obsidian.bmp
+./blocks/brick.bmp 0 0
+./blocks/coal_block.bmp 30 0
+./blocks/brick.bmp 60 0
+./blocks/coal_ore.bmp 90 0
+./blocks/obsidian.bmp	 120 0
+./blocks/brick.bmp 150 0
+./blocks/stone.bmp 180 0
+./blocks/brick.bmp 210 0
+./blocks/coal_block.bmp 240 0
+./blocks/grass_block.bmp	 270 0
+./blocks/coal_block.bmp 300 0
+./blocks/code_block.bmp 330 0
+./blocks/code_block.bmp 360 0
+./blocks/air.bmp 390 0
+./blocks/air.bmp 420 0
+./blocks/brick.bmp 450 0
+./blocks/coal_block.bmp 480 0
+./blocks/air.bmp 510 0
+./blocks/grass_block.bmp	 540 0
+./blocks/cobblestone.bmp 570 0
+./blocks/dirt.bmp	 600 0
+./blocks/obsidian.bmp	 630 0
+./blocks/coal_ore.bmp 660 0
+./blocks/dirt.bmp	 690 0
+./blocks/coal_ore.bmp 720 0
+./blocks/dirt.bmp	 750 0
+./blocks/coal_ore.bmp 780 0
+./blocks/dirt.bmp	 810 0
+./blocks/stone.bmp 840 0
+./blocks/cobblestone.bmp 870 0
+./blocks/dirt.bmp	 900 0
+./blocks/rose_pyroxene.bmp 930 0
+./blocks/air.bmp 0 30
+./blocks/brick.bmp 30 30
+./blocks/stone.bmp 60 30
+./blocks/grass_block.bmp	 90 30
+./blocks/grass_block.bmp	 120 30
+./blocks/brick.bmp 150 30
+./blocks/code_block.bmp 180 30
+./blocks/air.bmp 210 30
+./blocks/dirt.bmp	 240 30
+./blocks/stone.bmp 270 30
+./blocks/coal_ore.bmp 300 30
+./blocks/rose_pyroxene.bmp 330 30
+./blocks/rose_pyroxene.bmp 360 30
+./blocks/rose_pyroxene.bmp 390 30
+./blocks/code_block.bmp 420 30
+./blocks/obsidian.bmp	 450 30
+./blocks/dirt.bmp	 480 30
+./blocks/dirt.bmp	 510 30
+./blocks/code_block.bmp 540 30
+./blocks/air.bmp 570 30
+./blocks/air.bmp 600 30
+./blocks/grass_block.bmp	 630 30
+./blocks/air.bmp 660 30
+./blocks/dirt.bmp	 690 30
+./blocks/cobblestone.bmp 720 30
+./blocks/cobblestone.bmp 750 30
+./blocks/stone.bmp 780 30
+./blocks/air.bmp 810 30
+./blocks/coal_ore.bmp 840 30
+./blocks/code_block.bmp 870 30
+./blocks/dirt.bmp	 900 30
+./blocks/grass_block.bmp	 930 30
+./blocks/grass_block.bmp	 0 60
+./blocks/code_block.bmp 30 60
+./blocks/dirt.bmp	 60 60
+./blocks/cobblestone.bmp 90 60
+./blocks/coal_ore.bmp 120 60
+./blocks/stone.bmp 150 60
+./blocks/grass_block.bmp	 180 60
+./blocks/cobblestone.bmp 210 60
+./blocks/coal_ore.bmp 240 60
+./blocks/air.bmp 270 60
+./blocks/air.bmp 300 60
+./blocks/grass_block.bmp	 330 60
+./blocks/coal_block.bmp 360 60
+./blocks/brick.bmp 390 60
+./blocks/rose_pyroxene.bmp 420 60
+./blocks/stone.bmp 450 60
+./blocks/obsidian.bmp	 480 60
+./blocks/code_block.bmp 510 60
+./blocks/grass_block.bmp	 540 60
+./blocks/coal_ore.bmp 570 60
+./blocks/coal_ore.bmp 600 60
+./blocks/stone.bmp 630 60
+./blocks/coal_ore.bmp 660 60
+./blocks/code_block.bmp 690 60
+./blocks/stone.bmp 720 60
+./blocks/air.bmp 750 60
+./blocks/coal_block.bmp 780 60
+./blocks/coal_block.bmp 810 60
+./blocks/dirt.bmp	 840 60
+./blocks/cobblestone.bmp 870 60
+./blocks/dirt.bmp	 900 60
+./blocks/brick.bmp 930 60
+./blocks/stone.bmp 0 90
+./blocks/grass_block.bmp	 30 90
+./blocks/code_block.bmp 60 90
+./blocks/coal_block.bmp 90 90
+./blocks/grass_block.bmp	 120 90
+./blocks/stone.bmp 150 90
+./blocks/dirt.bmp	 180 90
+./blocks/rose_pyroxene.bmp 210 90
+./blocks/brick.bmp 240 90
+./blocks/code_block.bmp 270 90
+./blocks/stone.bmp 300 90
+./blocks/grass_block.bmp	 330 90
+./blocks/obsidian.bmp	 360 90
+./blocks/dirt.bmp	 390 90
+./blocks/coal_block.bmp 420 90
+./blocks/coal_block.bmp 450 90
+./blocks/obsidian.bmp	 480 90
+./blocks/rose_pyroxene.bmp 510 90
+./blocks/code_block.bmp 540 90
+./blocks/grass_block.bmp	 570 90
+./blocks/rose_pyroxene.bmp 600 90
+./blocks/coal_ore.bmp 630 90
+./blocks/air.bmp 660 90
+./blocks/coal_block.bmp 690 90
+./blocks/coal_block.bmp 720 90
+./blocks/grass_block.bmp	 750 90
+./blocks/rose_pyroxene.bmp 780 90
+./blocks/dirt.bmp	 810 90
+./blocks/code_block.bmp 840 90
+./blocks/cobblestone.bmp 870 90
+./blocks/dirt.bmp	 900 90
+./blocks/code_block.bmp 930 90
+./blocks/cobblestone.bmp 0 120
+./blocks/obsidian.bmp	 30 120
+./blocks/stone.bmp 60 120
+./blocks/cobblestone.bmp 90 120
+./blocks/rose_pyroxene.bmp 120 120
+./blocks/dirt.bmp	 150 120
+./blocks/dirt.bmp	 180 120
+./blocks/code_block.bmp 210 120
+./blocks/coal_ore.bmp 240 120
+./blocks/coal_block.bmp 270 120
+./blocks/obsidian.bmp	 300 120
+./blocks/cobblestone.bmp 330 120
+./blocks/air.bmp 360 120
+./blocks/code_block.bmp 390 120
+./blocks/stone.bmp 420 120
+./blocks/cobblestone.bmp 450 120
+./blocks/coal_ore.bmp 480 120
+./blocks/air.bmp 510 120
+./blocks/stone.bmp 540 120
+./blocks/air.bmp 570 120
+./blocks/coal_block.bmp 600 120
+./blocks/code_block.bmp 630 120
+./blocks/coal_ore.bmp 660 120
+./blocks/coal_block.bmp 690 120
+./blocks/grass_block.bmp	 720 120
+./blocks/grass_block.bmp	 750 120
+./blocks/air.bmp 780 120
+./blocks/coal_block.bmp 810 120
+./blocks/brick.bmp 840 120
+./blocks/coal_ore.bmp 870 120
+./blocks/coal_ore.bmp 900 120
+./blocks/code_block.bmp 930 120
+./blocks/grass_block.bmp	 0 150
+./blocks/coal_ore.bmp 30 150
+./blocks/air.bmp 60 150
+./blocks/coal_block.bmp 90 150
+./blocks/rose_pyroxene.bmp 120 150
+./blocks/stone.bmp 150 150
+./blocks/grass_block.bmp	 180 150
+./blocks/coal_ore.bmp 210 150
+./blocks/air.bmp 240 150
+./blocks/grass_block.bmp	 270 150
+./blocks/obsidian.bmp	 300 150
+./blocks/coal_ore.bmp 330 150
+./blocks/cobblestone.bmp 360 150
+./blocks/dirt.bmp	 390 150
+./blocks/air.bmp 420 150
+./blocks/cobblestone.bmp 450 150
+./blocks/coal_block.bmp 480 150
+./blocks/grass_block.bmp	 510 150
+./blocks/grass_block.bmp	 540 150
+./blocks/coal_ore.bmp 570 150
+./blocks/stone.bmp 600 150
+./blocks/cobblestone.bmp 630 150
+./blocks/stone.bmp 660 150
+./blocks/dirt.bmp	 690 150
+./blocks/cobblestone.bmp 720 150
+./blocks/brick.bmp 750 150
+./blocks/cobblestone.bmp 780 150
+./blocks/coal_block.bmp 810 150
+./blocks/coal_ore.bmp 840 150
+./blocks/cobblestone.bmp 870 150
+./blocks/obsidian.bmp	 900 150
+./blocks/grass_block.bmp	 930 150
+./blocks/brick.bmp 0 180
+./blocks/air.bmp 30 180
+./blocks/coal_block.bmp 60 180
+./blocks/air.bmp 90 180
+./blocks/grass_block.bmp	 120 180
+./blocks/grass_block.bmp	 150 180
+./blocks/stone.bmp 180 180
+./blocks/air.bmp 210 180
+./blocks/brick.bmp 240 180
+./blocks/dirt.bmp	 270 180
+./blocks/coal_ore.bmp 300 180
+./blocks/stone.bmp 330 180
+./blocks/coal_ore.bmp 360 180
+./blocks/coal_block.bmp 390 180
+./blocks/air.bmp 420 180
+./blocks/coal_block.bmp 450 180
+./blocks/coal_block.bmp 480 180
+./blocks/rose_pyroxene.bmp 510 180
+./blocks/dirt.bmp	 540 180
+./blocks/brick.bmp 570 180
+./blocks/rose_pyroxene.bmp 600 180
+./blocks/air.bmp 630 180
+./blocks/obsidian.bmp	 660 180
+./blocks/air.bmp 690 180
+./blocks/stone.bmp 720 180
+./blocks/stone.bmp 750 180
+./blocks/brick.bmp 780 180
+./blocks/coal_block.bmp 810 180
+./blocks/dirt.bmp	 840 180
+./blocks/coal_ore.bmp 870 180
+./blocks/rose_pyroxene.bmp 900 180
+./blocks/code_block.bmp 930 180
+./blocks/air.bmp 0 210
+./blocks/brick.bmp 30 210
+./blocks/coal_block.bmp 60 210
+./blocks/coal_ore.bmp 90 210
+./blocks/cobblestone.bmp 120 210
+./blocks/dirt.bmp	 150 210
+./blocks/code_block.bmp 180 210
+./blocks/code_block.bmp 210 210
+./blocks/code_block.bmp 240 210
+./blocks/coal_ore.bmp 270 210
+./blocks/dirt.bmp	 300 210
+./blocks/coal_block.bmp 330 210
+./blocks/dirt.bmp	 360 210
+./blocks/rose_pyroxene.bmp 390 210
+./blocks/cobblestone.bmp 420 210
+./blocks/code_block.bmp 450 210
+./blocks/coal_block.bmp 480 210
+./blocks/stone.bmp 510 210
+./blocks/stone.bmp 540 210
+./blocks/cobblestone.bmp 570 210
+./blocks/rose_pyroxene.bmp 600 210
+./blocks/air.bmp 630 210
+./blocks/grass_block.bmp	 660 210
+./blocks/stone.bmp 690 210
+./blocks/cobblestone.bmp 720 210
+./blocks/cobblestone.bmp 750 210
+./blocks/rose_pyroxene.bmp 780 210
+./blocks/dirt.bmp	 810 210
+./blocks/coal_block.bmp 840 210
+./blocks/rose_pyroxene.bmp 870 210
+./blocks/brick.bmp 900 210
+./blocks/rose_pyroxene.bmp 930 210
+./blocks/coal_ore.bmp 0 240
+./blocks/air.bmp 30 240
+./blocks/coal_block.bmp 60 240
+./blocks/brick.bmp 90 240
+./blocks/coal_ore.bmp 120 240
+./blocks/stone.bmp 150 240
+./blocks/brick.bmp 180 240
+./blocks/stone.bmp 210 240
+./blocks/air.bmp 240 240
+./blocks/dirt.bmp	 270 240
+./blocks/grass_block.bmp	 300 240
+./blocks/rose_pyroxene.bmp 330 240
+./blocks/grass_block.bmp	 360 240
+./blocks/grass_block.bmp	 390 240
+./blocks/code_block.bmp 420 240
+./blocks/code_block.bmp 450 240
+./blocks/dirt.bmp	 480 240
+./blocks/grass_block.bmp	 510 240
+./blocks/grass_block.bmp	 540 240
+./blocks/cobblestone.bmp 570 240
+./blocks/grass_block.bmp	 600 240
+./blocks/grass_block.bmp	 630 240
+./blocks/cobblestone.bmp 660 240
+./blocks/dirt.bmp	 690 240
+./blocks/coal_block.bmp 720 240
+./blocks/coal_block.bmp 750 240
+./blocks/air.bmp 780 240
+./blocks/dirt.bmp	 810 240
+./blocks/obsidian.bmp	 840 240
+./blocks/brick.bmp 870 240
+./blocks/brick.bmp 900 240
+./blocks/coal_block.bmp 930 240
+./blocks/obsidian.bmp	 0 270
+./blocks/dirt.bmp	 30 270
+./blocks/grass_block.bmp	 60 270
+./blocks/air.bmp 90 270
+./blocks/coal_block.bmp 120 270
+./blocks/obsidian.bmp	 150 270
+./blocks/stone.bmp 180 270
+./blocks/coal_block.bmp 210 270
+./blocks/dirt.bmp	 240 270
+./blocks/stone.bmp 270 270
+./blocks/coal_block.bmp 300 270
+./blocks/coal_ore.bmp 330 270
+./blocks/coal_block.bmp 360 270
+./blocks/coal_block.bmp 390 270
+./blocks/grass_block.bmp	 420 270
+./blocks/air.bmp 450 270
+./blocks/dirt.bmp	 480 270
+./blocks/air.bmp 510 270
+./blocks/cobblestone.bmp 540 270
+./blocks/stone.bmp 570 270
+./blocks/obsidian.bmp	 600 270
+./blocks/stone.bmp 630 270
+./blocks/stone.bmp 660 270
+./blocks/cobblestone.bmp 690 270
+./blocks/coal_block.bmp 720 270
+./blocks/grass_block.bmp	 750 270
+./blocks/code_block.bmp 780 270
+./blocks/cobblestone.bmp 810 270
+./blocks/grass_block.bmp	 840 270
+./blocks/dirt.bmp	 870 270
+./blocks/grass_block.bmp	 900 270
+./blocks/rose_pyroxene.bmp 930 270
+./blocks/grass_block.bmp	 0 300
+./blocks/coal_block.bmp 30 300
+./blocks/coal_ore.bmp 60 300
+./blocks/grass_block.bmp	 90 300
+./blocks/stone.bmp 120 300
+./blocks/air.bmp 150 300
+./blocks/rose_pyroxene.bmp 180 300
+./blocks/rose_pyroxene.bmp 210 300
+./blocks/code_block.bmp 240 300
+./blocks/air.bmp 270 300
+./blocks/coal_block.bmp 300 300
+./blocks/air.bmp 330 300
+./blocks/brick.bmp 360 300
+./blocks/brick.bmp 390 300
+./blocks/air.bmp 420 300
+./blocks/dirt.bmp	 450 300
+./blocks/rose_pyroxene.bmp 480 300
+./blocks/brick.bmp 510 300
+./blocks/obsidian.bmp	 540 300
+./blocks/grass_block.bmp	 570 300
+./blocks/rose_pyroxene.bmp 600 300
+./blocks/obsidian.bmp	 630 300
+./blocks/coal_block.bmp 660 300
+./blocks/dirt.bmp	 690 300
+./blocks/cobblestone.bmp 720 300
+./blocks/grass_block.bmp	 750 300
+./blocks/dirt.bmp	 780 300
+./blocks/coal_ore.bmp 810 300
+./blocks/rose_pyroxene.bmp 840 300
+./blocks/coal_ore.bmp 870 300
+./blocks/code_block.bmp 900 300
+./blocks/code_block.bmp 930 300
+./blocks/dirt.bmp	 0 330
+./blocks/stone.bmp 30 330
+./blocks/obsidian.bmp	 60 330
+./blocks/air.bmp 90 330
+./blocks/obsidian.bmp	 120 330
+./blocks/code_block.bmp 150 330
+./blocks/obsidian.bmp	 180 330
+./blocks/code_block.bmp 210 330
+./blocks/cobblestone.bmp 240 330
+./blocks/grass_block.bmp	 270 330
+./blocks/cobblestone.bmp 300 330
+./blocks/stone.bmp 330 330
+./blocks/stone.bmp 360 330
+./blocks/coal_ore.bmp 390 330
+./blocks/dirt.bmp	 420 330
+./blocks/cobblestone.bmp 450 330
+./blocks/coal_ore.bmp 480 330
+./blocks/obsidian.bmp	 510 330
+./blocks/dirt.bmp	 540 330
+./blocks/brick.bmp 570 330
+./blocks/stone.bmp 600 330
+./blocks/grass_block.bmp	 630 330
+./blocks/cobblestone.bmp 660 330
+./blocks/grass_block.bmp	 690 330
+./blocks/brick.bmp 720 330
+./blocks/dirt.bmp	 750 330
+./blocks/dirt.bmp	 780 330
+./blocks/stone.bmp 810 330
+./blocks/stone.bmp 840 330
+./blocks/dirt.bmp	 870 330
+./blocks/coal_ore.bmp 900 330
+./blocks/cobblestone.bmp 930 330
+./blocks/dirt.bmp	 0 360
+./blocks/rose_pyroxene.bmp 30 360
+./blocks/grass_block.bmp	 60 360
+./blocks/rose_pyroxene.bmp 90 360
+./blocks/obsidian.bmp	 120 360
+./blocks/rose_pyroxene.bmp 150 360
+./blocks/code_block.bmp 180 360
+./blocks/code_block.bmp 210 360
+./blocks/code_block.bmp 240 360
+./blocks/cobblestone.bmp 270 360
+./blocks/dirt.bmp	 300 360
+./blocks/dirt.bmp	 330 360
+./blocks/brick.bmp 360 360
+./blocks/obsidian.bmp	 390 360
+./blocks/cobblestone.bmp 420 360
+./blocks/code_block.bmp 450 360
+./blocks/coal_block.bmp 480 360
+./blocks/coal_block.bmp 510 360
+./blocks/grass_block.bmp	 540 360
+./blocks/rose_pyroxene.bmp 570 360
+./blocks/dirt.bmp	 600 360
+./blocks/cobblestone.bmp 630 360
+./blocks/rose_pyroxene.bmp 660 360
+./blocks/cobblestone.bmp 690 360
+./blocks/coal_ore.bmp 720 360
+./blocks/coal_block.bmp 750 360
+./blocks/obsidian.bmp	 780 360
+./blocks/coal_block.bmp 810 360
+./blocks/brick.bmp 840 360
+./blocks/cobblestone.bmp 870 360
+./blocks/stone.bmp 900 360
+./blocks/code_block.bmp 930 360
+./blocks/dirt.bmp	 0 390
+./blocks/obsidian.bmp	 30 390
+./blocks/obsidian.bmp	 60 390
+./blocks/brick.bmp 90 390
+./blocks/obsidian.bmp	 120 390
+./blocks/coal_ore.bmp 150 390
+./blocks/coal_ore.bmp 180 390
+./blocks/dirt.bmp	 210 390
+./blocks/stone.bmp 240 390
+./blocks/rose_pyroxene.bmp 270 390
+./blocks/dirt.bmp	 300 390
+./blocks/coal_ore.bmp 330 390
+./blocks/obsidian.bmp	 360 390
+./blocks/brick.bmp 390 390
+./blocks/coal_block.bmp 420 390
+./blocks/coal_ore.bmp 450 390
+./blocks/air.bmp 480 390
+./blocks/coal_block.bmp 510 390
+./blocks/stone.bmp 540 390
+./blocks/dirt.bmp	 570 390
+./blocks/coal_ore.bmp 600 390
+./blocks/obsidian.bmp	 630 390
+./blocks/coal_block.bmp 660 390
+./blocks/rose_pyroxene.bmp 690 390
+./blocks/coal_block.bmp 720 390
+./blocks/obsidian.bmp	 750 390
+./blocks/dirt.bmp	 780 390
+./blocks/air.bmp 810 390
+./blocks/rose_pyroxene.bmp 840 390
+./blocks/coal_ore.bmp 870 390
+./blocks/stone.bmp 900 390
+./blocks/dirt.bmp	 930 390
+./blocks/coal_ore.bmp 0 420
+./blocks/stone.bmp 30 420
+./blocks/coal_block.bmp 60 420
+./blocks/dirt.bmp	 90 420
+./blocks/rose_pyroxene.bmp 120 420
+./blocks/grass_block.bmp	 150 420
+./blocks/code_block.bmp 180 420
+./blocks/air.bmp 210 420
+./blocks/obsidian.bmp	 240 420
+./blocks/stone.bmp 270 420
+./blocks/rose_pyroxene.bmp 300 420
+./blocks/brick.bmp 330 420
+./blocks/grass_block.bmp	 360 420
+./blocks/brick.bmp 390 420
+./blocks/brick.bmp 420 420
+./blocks/stone.bmp 450 420
+./blocks/brick.bmp 480 420
+./blocks/dirt.bmp	 510 420
+./blocks/stone.bmp 540 420
+./blocks/air.bmp 570 420
+./blocks/brick.bmp 600 420
+./blocks/coal_block.bmp 630 420
+./blocks/coal_block.bmp 660 420
+./blocks/code_block.bmp 690 420
+./blocks/rose_pyroxene.bmp 720 420
+./blocks/air.bmp 750 420
+./blocks/dirt.bmp	 780 420
+./blocks/air.bmp 810 420
+./blocks/stone.bmp 840 420
+./blocks/code_block.bmp 870 420
+./blocks/brick.bmp 900 420
+./blocks/coal_ore.bmp 930 420
+./blocks/stone.bmp 0 450
+./blocks/air.bmp 30 450
+./blocks/coal_ore.bmp 60 450
+./blocks/grass_block.bmp	 90 450
+./blocks/brick.bmp 120 450
+./blocks/obsidian.bmp	 150 450
+./blocks/air.bmp 180 450
+./blocks/coal_ore.bmp 210 450
+./blocks/obsidian.bmp	 240 450
+./blocks/grass_block.bmp	 270 450
+./blocks/coal_block.bmp 300 450
+./blocks/air.bmp 330 450
+./blocks/coal_ore.bmp 360 450
+./blocks/cobblestone.bmp 390 450
+./blocks/obsidian.bmp	 420 450
+./blocks/brick.bmp 450 450
+./blocks/coal_block.bmp 480 450
+./blocks/coal_block.bmp 510 450
+./blocks/air.bmp 540 450
+./blocks/air.bmp 570 450
+./blocks/brick.bmp 600 450
+./blocks/coal_block.bmp 630 450
+./blocks/coal_ore.bmp 660 450
+./blocks/code_block.bmp 690 450
+./blocks/dirt.bmp	 720 450
+./blocks/grass_block.bmp	 750 450
+./blocks/dirt.bmp	 780 450
+./blocks/rose_pyroxene.bmp 810 450
+./blocks/dirt.bmp	 840 450
+./blocks/cobblestone.bmp 870 450
+./blocks/obsidian.bmp	 900 450
+./blocks/cobblestone.bmp 930 450
+./blocks/dirt.bmp	 0 480
+./blocks/obsidian.bmp	 30 480
+./blocks/brick.bmp 60 480
+./blocks/obsidian.bmp	 90 480
+./blocks/air.bmp 120 480
+./blocks/grass_block.bmp	 150 480
+./blocks/dirt.bmp	 180 480
+./blocks/air.bmp 210 480
+./blocks/coal_block.bmp 240 480
+./blocks/stone.bmp 270 480
+./blocks/cobblestone.bmp 300 480
+./blocks/dirt.bmp	 330 480
+./blocks/cobblestone.bmp 360 480
+./blocks/coal_block.bmp 390 480
+./blocks/code_block.bmp 420 480
+./blocks/grass_block.bmp	 450 480
+./blocks/grass_block.bmp	 480 480
+./blocks/code_block.bmp 510 480
+./blocks/rose_pyroxene.bmp 540 480
+./blocks/grass_block.bmp	 570 480
+./blocks/brick.bmp 600 480
+./blocks/air.bmp 630 480
+./blocks/air.bmp 660 480
+./blocks/code_block.bmp 690 480
+./blocks/stone.bmp 720 480
+./blocks/stone.bmp 750 480
+./blocks/dirt.bmp	 780 480
+./blocks/brick.bmp 810 480
+./blocks/air.bmp 840 480
+./blocks/rose_pyroxene.bmp 870 480
+./blocks/coal_block.bmp 900 480
+./blocks/coal_block.bmp 930 480
+./blocks/brick.bmp 0 510
+./blocks/dirt.bmp	 30 510
+./blocks/air.bmp 60 510
+./blocks/grass_block.bmp	 90 510
+./blocks/grass_block.bmp	 120 510
+./blocks/grass_block.bmp	 150 510
+./blocks/air.bmp 180 510
+./blocks/rose_pyroxene.bmp 210 510
+./blocks/grass_block.bmp	 240 510
+./blocks/code_block.bmp 270 510
+./blocks/coal_ore.bmp 300 510
+./blocks/obsidian.bmp	 330 510
+./blocks/code_block.bmp 360 510
+./blocks/coal_block.bmp 390 510
+./blocks/coal_block.bmp 420 510
+./blocks/stone.bmp 450 510
+./blocks/brick.bmp 480 510
+./blocks/brick.bmp 510 510
+./blocks/brick.bmp 540 510
+./blocks/coal_ore.bmp 570 510
+./blocks/air.bmp 600 510
+./blocks/dirt.bmp	 630 510
+./blocks/rose_pyroxene.bmp 660 510
+./blocks/obsidian.bmp	 690 510
+./blocks/dirt.bmp	 720 510
+./blocks/stone.bmp 750 510
+./blocks/air.bmp 780 510
+./blocks/code_block.bmp 810 510
+./blocks/brick.bmp 840 510
+./blocks/grass_block.bmp	 870 510
+./blocks/obsidian.bmp	 900 510
+./blocks/stone.bmp 930 510
+./blocks/code_block.bmp 0 540
+./blocks/coal_block.bmp 30 540
+./blocks/cobblestone.bmp 60 540
+./blocks/brick.bmp 90 540
+./blocks/stone.bmp 120 540
+./blocks/cobblestone.bmp 150 540
+./blocks/cobblestone.bmp 180 540
+./blocks/obsidian.bmp	 210 540
+./blocks/grass_block.bmp	 240 540
+./blocks/air.bmp 270 540
+./blocks/coal_ore.bmp 300 540
+./blocks/brick.bmp 330 540
+./blocks/coal_ore.bmp 360 540
+./blocks/air.bmp 390 540
+./blocks/code_block.bmp 420 540
+./blocks/dirt.bmp	 450 540
+./blocks/rose_pyroxene.bmp 480 540
+./blocks/stone.bmp 510 540
+./blocks/grass_block.bmp	 540 540
+./blocks/stone.bmp 570 540
+./blocks/dirt.bmp	 600 540
+./blocks/code_block.bmp 630 540
+./blocks/code_block.bmp 660 540
+./blocks/coal_ore.bmp 690 540
+./blocks/stone.bmp 720 540
+./blocks/stone.bmp 750 540
+./blocks/air.bmp 780 540
+./blocks/brick.bmp 810 540
+./blocks/grass_block.bmp	 840 540
+./blocks/rose_pyroxene.bmp 870 540
+./blocks/code_block.bmp 900 540
+./blocks/rose_pyroxene.bmp 930 540
+./blocks/stone.bmp 0 0
+./blocks/dirt.bmp	 30 0
+./blocks/cobblestone.bmp 60 0
+./blocks/dirt.bmp	 90 0
+./blocks/air.bmp 120 0
+./blocks/dirt.bmp	 150 0
+./blocks/obsidian.bmp	 180 0
+./blocks/code_block.bmp 210 0
+./blocks/dirt.bmp	 240 0
+./blocks/brick.bmp 270 0
+./blocks/rose_pyroxene.bmp 300 0
+./blocks/air.bmp 330 0
+./blocks/obsidian.bmp	 360 0
+./blocks/air.bmp 390 0
+./blocks/rose_pyroxene.bmp 420 0
+./blocks/stone.bmp 450 0
+./blocks/dirt.bmp	 480 0
+./blocks/rose_pyroxene.bmp 510 0
+./blocks/code_block.bmp 540 0
+./blocks/code_block.bmp 570 0
+./blocks/code_block.bmp 600 0
+./blocks/air.bmp 630 0
+./blocks/coal_block.bmp 660 0
+./blocks/rose_pyroxene.bmp 690 0
+./blocks/dirt.bmp	 720 0
+./blocks/code_block.bmp 750 0
+./blocks/cobblestone.bmp 780 0
+./blocks/air.bmp 810 0
+./blocks/coal_ore.bmp 840 0
+./blocks/code_block.bmp 870 0
+./blocks/stone.bmp 900 0
+./blocks/code_block.bmp 930 0
+./blocks/cobblestone.bmp 0 30
+./blocks/coal_block.bmp 30 30
+./blocks/brick.bmp 60 30
+./blocks/cobblestone.bmp 90 30
+./blocks/code_block.bmp 120 30
+./blocks/rose_pyroxene.bmp 150 30
+./blocks/dirt.bmp	 180 30
+./blocks/coal_ore.bmp 210 30
+./blocks/code_block.bmp 240 30
+./blocks/code_block.bmp 270 30
+./blocks/grass_block.bmp	 300 30
+./blocks/stone.bmp 330 30
+./blocks/dirt.bmp	 360 30
+./blocks/air.bmp 390 30
+./blocks/cobblestone.bmp 420 30
+./blocks/air.bmp 450 30
+./blocks/obsidian.bmp	 480 30
+./blocks/grass_block.bmp	 510 30
+./blocks/coal_block.bmp 540 30
+./blocks/brick.bmp 570 30
+./blocks/air.bmp 600 30
+./blocks/stone.bmp 630 30
+./blocks/grass_block.bmp	 660 30
+./blocks/air.bmp 690 30
+./blocks/rose_pyroxene.bmp 720 30
+./blocks/air.bmp 750 30
+./blocks/brick.bmp 780 30
+./blocks/air.bmp 810 30
+./blocks/obsidian.bmp	 840 30
+./blocks/stone.bmp 870 30
+./blocks/grass_block.bmp	 900 30
+./blocks/cobblestone.bmp 930 30
+./blocks/cobblestone.bmp 0 60
+./blocks/code_block.bmp 30 60
+./blocks/dirt.bmp	 60 60
+./blocks/air.bmp 90 60
+./blocks/obsidian.bmp	 120 60
+./blocks/code_block.bmp 150 60
+./blocks/stone.bmp 180 60
+./blocks/obsidian.bmp	 210 60
+./blocks/obsidian.bmp	 240 60
+./blocks/rose_pyroxene.bmp 270 60
+./blocks/dirt.bmp	 300 60
+./blocks/obsidian.bmp	 330 60
+./blocks/grass_block.bmp	 360 60
+./blocks/code_block.bmp 390 60
+./blocks/stone.bmp 420 60
+./blocks/air.bmp 450 60
+./blocks/dirt.bmp	 480 60
+./blocks/brick.bmp 510 60
+./blocks/obsidian.bmp	 540 60
+./blocks/dirt.bmp	 570 60
+./blocks/grass_block.bmp	 600 60
+./blocks/brick.bmp 630 60
+./blocks/air.bmp 660 60
+./blocks/code_block.bmp 690 60
+./blocks/grass_block.bmp	 720 60
+./blocks/brick.bmp 750 60
+./blocks/grass_block.bmp	 780 60
+./blocks/coal_ore.bmp 810 60
+./blocks/grass_block.bmp	 840 60
+./blocks/grass_block.bmp	 870 60
+./blocks/air.bmp 900 60
+./blocks/cobblestone.bmp 930 60
+./blocks/brick.bmp 0 90
+./blocks/air.bmp 30 90
+./blocks/grass_block.bmp	 60 90
+./blocks/obsidian.bmp	 90 90
+./blocks/air.bmp 120 90
+./blocks/rose_pyroxene.bmp 150 90
+./blocks/dirt.bmp	 180 90
+./blocks/coal_ore.bmp 210 90
+./blocks/grass_block.bmp	 240 90
+./blocks/air.bmp 270 90
+./blocks/code_block.bmp 300 90
+./blocks/stone.bmp 330 90
+./blocks/stone.bmp 360 90
+./blocks/brick.bmp 390 90
+./blocks/dirt.bmp	 420 90
+./blocks/coal_ore.bmp 450 90
+./blocks/air.bmp 480 90
+./blocks/dirt.bmp	 510 90
+./blocks/air.bmp 540 90
+./blocks/rose_pyroxene.bmp 570 90
+./blocks/grass_block.bmp	 600 90
+./blocks/rose_pyroxene.bmp 630 90
+./blocks/coal_ore.bmp 660 90
+./blocks/coal_block.bmp 690 90
+./blocks/coal_block.bmp 720 90
+./blocks/air.bmp 750 90
+./blocks/code_block.bmp 780 90
+./blocks/coal_ore.bmp 810 90
+./blocks/grass_block.bmp	 840 90
+./blocks/cobblestone.bmp 870 90
+./blocks/obsidian.bmp	 900 90
+./blocks/obsidian.bmp	 930 90
+./blocks/brick.bmp 0 120
+./blocks/coal_ore.bmp 30 120
+./blocks/cobblestone.bmp 60 120
+./blocks/grass_block.bmp	 90 120
+./blocks/dirt.bmp	 120 120
+./blocks/brick.bmp 150 120
+./blocks/cobblestone.bmp 180 120
+./blocks/air.bmp 210 120
+./blocks/dirt.bmp	 240 120
+./blocks/coal_ore.bmp 270 120
+./blocks/stone.bmp 300 120
+./blocks/obsidian.bmp	 330 120
+./blocks/obsidian.bmp	 360 120
+./blocks/coal_ore.bmp 390 120
+./blocks/coal_ore.bmp 420 120
+./blocks/brick.bmp 450 120
+./blocks/stone.bmp 480 120
+./blocks/brick.bmp 510 120
+./blocks/coal_block.bmp 540 120
+./blocks/coal_block.bmp 570 120
+./blocks/coal_block.bmp 600 120
+./blocks/dirt.bmp	 630 120
+./blocks/dirt.bmp	 660 120
+./blocks/coal_ore.bmp 690 120
+./blocks/grass_block.bmp	 720 120
+./blocks/cobblestone.bmp 750 120
+./blocks/coal_ore.bmp 780 120
+./blocks/coal_block.bmp 810 120
+./blocks/code_block.bmp 840 120
+./blocks/obsidian.bmp	 870 120
+./blocks/rose_pyroxene.bmp 900 120
+./blocks/obsidian.bmp	 930 120
+./blocks/coal_ore.bmp 0 150
+./blocks/coal_ore.bmp 30 150
+./blocks/air.bmp 60 150
+./blocks/dirt.bmp	 90 150
+./blocks/brick.bmp 120 150
+./blocks/grass_block.bmp	 150 150
+./blocks/coal_block.bmp 180 150
+./blocks/code_block.bmp 210 150
+./blocks/brick.bmp 240 150
+./blocks/grass_block.bmp	 270 150
+./blocks/brick.bmp 300 150
+./blocks/cobblestone.bmp 330 150
+./blocks/air.bmp 360 150
+./blocks/dirt.bmp	 390 150
+./blocks/code_block.bmp 420 150
+./blocks/coal_block.bmp 450 150
+./blocks/grass_block.bmp	 480 150
+./blocks/dirt.bmp	 510 150
+./blocks/brick.bmp 540 150
+./blocks/rose_pyroxene.bmp 570 150
+./blocks/coal_block.bmp 600 150
+./blocks/stone.bmp 630 150
+./blocks/code_block.bmp 660 150
+./blocks/coal_block.bmp 690 150
+./blocks/coal_ore.bmp 720 150
+./blocks/dirt.bmp	 750 150
+./blocks/stone.bmp 780 150
+./blocks/coal_ore.bmp 810 150
+./blocks/stone.bmp 840 150
+./blocks/code_block.bmp 870 150
+./blocks/brick.bmp 900 150
+./blocks/stone.bmp 930 150
+./blocks/cobblestone.bmp 0 180
+./blocks/coal_block.bmp 30 180
+./blocks/rose_pyroxene.bmp 60 180
+./blocks/grass_block.bmp	 90 180
+./blocks/obsidian.bmp	 120 180
+./blocks/air.bmp 150 180
+./blocks/rose_pyroxene.bmp 180 180
+./blocks/coal_block.bmp 210 180
+./blocks/code_block.bmp 240 180
+./blocks/obsidian.bmp	 270 180
+./blocks/coal_ore.bmp 300 180
+./blocks/dirt.bmp	 330 180
+./blocks/cobblestone.bmp 360 180
+./blocks/code_block.bmp 390 180
+./blocks/cobblestone.bmp 420 180
+./blocks/grass_block.bmp	 450 180
+./blocks/grass_block.bmp	 480 180
+./blocks/code_block.bmp 510 180
+./blocks/brick.bmp 540 180
+./blocks/air.bmp 570 180
+./blocks/coal_block.bmp 600 180
+./blocks/coal_ore.bmp 630 180
+./blocks/stone.bmp 660 180
+./blocks/air.bmp 690 180
+./blocks/code_block.bmp 720 180
+./blocks/coal_ore.bmp 750 180
+./blocks/cobblestone.bmp 780 180
+./blocks/grass_block.bmp	 810 180
+./blocks/dirt.bmp	 840 180
+./blocks/dirt.bmp	 870 180
+./blocks/coal_block.bmp 900 180
+./blocks/cobblestone.bmp 930 180
+./blocks/cobblestone.bmp 0 210
+./blocks/air.bmp 30 210
+./blocks/code_block.bmp 60 210
+./blocks/rose_pyroxene.bmp 90 210
+./blocks/cobblestone.bmp 120 210
+./blocks/brick.bmp 150 210
+./blocks/dirt.bmp	 180 210
+./blocks/code_block.bmp 210 210
+./blocks/code_block.bmp 240 210
+./blocks/rose_pyroxene.bmp 270 210
+./blocks/air.bmp 300 210
+./blocks/air.bmp 330 210
+./blocks/stone.bmp 360 210
+./blocks/grass_block.bmp	 390 210
+./blocks/air.bmp 420 210
+./blocks/cobblestone.bmp 450 210
+./blocks/cobblestone.bmp 480 210
+./blocks/air.bmp 510 210
+./blocks/stone.bmp 540 210
+./blocks/grass_block.bmp	 570 210
+./blocks/coal_block.bmp 600 210
+./blocks/rose_pyroxene.bmp 630 210
+./blocks/dirt.bmp	 660 210
+./blocks/dirt.bmp	 690 210
+./blocks/dirt.bmp	 720 210
+./blocks/dirt.bmp	 750 210
+./blocks/rose_pyroxene.bmp 780 210
+./blocks/stone.bmp 810 210
+./blocks/coal_block.bmp 840 210
+./blocks/dirt.bmp	 870 210
+./blocks/grass_block.bmp	 900 210
+./blocks/grass_block.bmp	 930 210
+./blocks/coal_block.bmp 0 240
+./blocks/stone.bmp 30 240
+./blocks/dirt.bmp	 60 240
+./blocks/air.bmp 90 240
+./blocks/cobblestone.bmp 120 240
+./blocks/brick.bmp 150 240
+./blocks/air.bmp 180 240
+./blocks/air.bmp 210 240
+./blocks/stone.bmp 240 240
+./blocks/grass_block.bmp	 270 240
+./blocks/rose_pyroxene.bmp 300 240
+./blocks/dirt.bmp	 330 240
+./blocks/coal_block.bmp 360 240
+./blocks/brick.bmp 390 240
+./blocks/stone.bmp 420 240
+./blocks/cobblestone.bmp 450 240
+./blocks/obsidian.bmp	 480 240
+./blocks/obsidian.bmp	 510 240
+./blocks/stone.bmp 540 240
+./blocks/stone.bmp 570 240
+./blocks/code_block.bmp 600 240
+./blocks/air.bmp 630 240
+./blocks/rose_pyroxene.bmp 660 240
+./blocks/stone.bmp 690 240
+./blocks/code_block.bmp 720 240
+./blocks/obsidian.bmp	 750 240
+./blocks/grass_block.bmp	 780 240
+./blocks/dirt.bmp	 810 240
+./blocks/air.bmp 840 240
+./blocks/code_block.bmp 870 240
+./blocks/obsidian.bmp	 900 240
+./blocks/coal_ore.bmp 930 240
+./blocks/air.bmp 0 270
+./blocks/obsidian.bmp	 30 270
+./blocks/grass_block.bmp	 60 270
+./blocks/cobblestone.bmp 90 270
+./blocks/stone.bmp 120 270
+./blocks/brick.bmp 150 270
+./blocks/coal_block.bmp 180 270
+./blocks/stone.bmp 210 270
+./blocks/dirt.bmp	 240 270
+./blocks/stone.bmp 270 270
+./blocks/stone.bmp 300 270
+./blocks/brick.bmp 330 270
+./blocks/obsidian.bmp	 360 270
+./blocks/stone.bmp 390 270
+./blocks/dirt.bmp	 420 270
+./blocks/coal_block.bmp 450 270
+./blocks/stone.bmp 480 270
+./blocks/dirt.bmp	 510 270
+./blocks/obsidian.bmp	 540 270
+./blocks/dirt.bmp	 570 270
+./blocks/rose_pyroxene.bmp 600 270
+./blocks/grass_block.bmp	 630 270
+./blocks/stone.bmp 660 270
+./blocks/air.bmp 690 270
+./blocks/code_block.bmp 720 270
+./blocks/air.bmp 750 270
+./blocks/rose_pyroxene.bmp 780 270
+./blocks/code_block.bmp 810 270
+./blocks/brick.bmp 840 270
+./blocks/stone.bmp 870 270
+./blocks/grass_block.bmp	 900 270
+./blocks/obsidian.bmp	 930 270
+./blocks/brick.bmp 0 300
+./blocks/rose_pyroxene.bmp 30 300
+./blocks/obsidian.bmp	 60 300
+./blocks/air.bmp 90 300
+./blocks/stone.bmp 120 300
+./blocks/obsidian.bmp	 150 300
+./blocks/stone.bmp 180 300
+./blocks/rose_pyroxene.bmp 210 300
+./blocks/coal_ore.bmp 240 300
+./blocks/cobblestone.bmp 270 300
+./blocks/code_block.bmp 300 300
+./blocks/dirt.bmp	 330 300
+./blocks/code_block.bmp 360 300
+./blocks/coal_ore.bmp 390 300
+./blocks/air.bmp 420 300
+./blocks/brick.bmp 450 300
+./blocks/coal_block.bmp 480 300
+./blocks/stone.bmp 510 300
+./blocks/dirt.bmp	 540 300
+./blocks/cobblestone.bmp 570 300
+./blocks/air.bmp 600 300
+./blocks/grass_block.bmp	 630 300
+./blocks/air.bmp 660 300
+./blocks/rose_pyroxene.bmp 690 300
+./blocks/dirt.bmp	 720 300
+./blocks/air.bmp 750 300
+./blocks/brick.bmp 780 300
+./blocks/coal_ore.bmp 810 300
+./blocks/grass_block.bmp	 840 300
+./blocks/coal_block.bmp 870 300
+./blocks/rose_pyroxene.bmp 900 300
+./blocks/cobblestone.bmp 930 300
+./blocks/grass_block.bmp	 0 330
+./blocks/air.bmp 30 330
+./blocks/air.bmp 60 330
+./blocks/obsidian.bmp	 90 330
+./blocks/coal_ore.bmp 120 330
+./blocks/coal_ore.bmp 150 330
+./blocks/brick.bmp 180 330
+./blocks/dirt.bmp	 210 330
+./blocks/cobblestone.bmp 240 330
+./blocks/obsidian.bmp	 270 330
+./blocks/brick.bmp 300 330
+./blocks/stone.bmp 330 330
+./blocks/grass_block.bmp	 360 330
+./blocks/coal_ore.bmp 390 330
+./blocks/brick.bmp 420 330
+./blocks/rose_pyroxene.bmp 450 330
+./blocks/stone.bmp 480 330
+./blocks/obsidian.bmp	 510 330
+./blocks/grass_block.bmp	 540 330
+./blocks/coal_ore.bmp 570 330
+./blocks/code_block.bmp 600 330
+./blocks/coal_ore.bmp 630 330
+./blocks/dirt.bmp	 660 330
+./blocks/code_block.bmp 690 330
+./blocks/rose_pyroxene.bmp 720 330
+./blocks/grass_block.bmp	 750 330
+./blocks/cobblestone.bmp 780 330
+./blocks/rose_pyroxene.bmp 810 330
+./blocks/dirt.bmp	 840 330
+./blocks/code_block.bmp 870 330
+./blocks/coal_block.bmp 900 330
+./blocks/rose_pyroxene.bmp 930 330
+./blocks/brick.bmp 0 360
+./blocks/air.bmp 30 360
+./blocks/code_block.bmp 60 360
+./blocks/dirt.bmp	 90 360
+./blocks/coal_block.bmp 120 360
+./blocks/air.bmp 150 360
+./blocks/code_block.bmp 180 360
+./blocks/cobblestone.bmp 210 360
+./blocks/grass_block.bmp	 240 360
+./blocks/coal_ore.bmp 270 360
+./blocks/rose_pyroxene.bmp 300 360
+./blocks/obsidian.bmp	 330 360
+./blocks/stone.bmp 360 360
+./blocks/coal_block.bmp 390 360
+./blocks/code_block.bmp 420 360
+./blocks/cobblestone.bmp 450 360
+./blocks/code_block.bmp 480 360
+./blocks/cobblestone.bmp 510 360
+./blocks/obsidian.bmp	 540 360
+./blocks/dirt.bmp	 570 360
+./blocks/air.bmp 600 360
+./blocks/coal_ore.bmp 630 360
+./blocks/rose_pyroxene.bmp 660 360
+./blocks/code_block.bmp 690 360
+./blocks/coal_ore.bmp 720 360
+./blocks/rose_pyroxene.bmp 750 360
+./blocks/coal_block.bmp 780 360
+./blocks/cobblestone.bmp 810 360
+./blocks/obsidian.bmp	 840 360
+./blocks/cobblestone.bmp 870 360
+./blocks/coal_block.bmp 900 360
+./blocks/brick.bmp 930 360
+./blocks/air.bmp 0 390
+./blocks/code_block.bmp 30 390
+./blocks/cobblestone.bmp 60 390
+./blocks/cobblestone.bmp 90 390
+./blocks/code_block.bmp 120 390
+./blocks/stone.bmp 150 390
+./blocks/brick.bmp 180 390
+./blocks/code_block.bmp 210 390
+./blocks/dirt.bmp	 240 390
+./blocks/brick.bmp 270 390
+./blocks/grass_block.bmp	 300 390
+./blocks/brick.bmp 330 390
+./blocks/coal_ore.bmp 360 390
+./blocks/cobblestone.bmp 390 390
+./blocks/grass_block.bmp	 420 390
+./blocks/cobblestone.bmp 450 390
+./blocks/dirt.bmp	 480 390
+./blocks/air.bmp 510 390
+./blocks/brick.bmp 540 390
+./blocks/stone.bmp 570 390
+./blocks/brick.bmp 600 390
+./blocks/cobblestone.bmp 630 390
+./blocks/code_block.bmp 660 390
+./blocks/coal_block.bmp 690 390
+./blocks/brick.bmp 720 390
+./blocks/code_block.bmp 750 390
+./blocks/stone.bmp 780 390
+./blocks/dirt.bmp	 810 390
+./blocks/cobblestone.bmp 840 390
+./blocks/coal_block.bmp 870 390
+./blocks/stone.bmp 900 390
+./blocks/code_block.bmp 930 390
+./blocks/code_block.bmp 0 420
+./blocks/coal_ore.bmp 30 420
+./blocks/coal_ore.bmp 60 420
+./blocks/coal_ore.bmp 90 420
+./blocks/dirt.bmp	 120 420
+./blocks/obsidian.bmp	 150 420
+./blocks/air.bmp 180 420
+./blocks/grass_block.bmp	 210 420
+./blocks/coal_ore.bmp 240 420
+./blocks/air.bmp 270 420
+./blocks/stone.bmp 300 420
+./blocks/cobblestone.bmp 330 420
+./blocks/grass_block.bmp	 360 420
+./blocks/air.bmp 390 420
+./blocks/coal_block.bmp 420 420
+./blocks/coal_ore.bmp 450 420
+./blocks/code_block.bmp 480 420
+./blocks/dirt.bmp	 510 420
+./blocks/cobblestone.bmp 540 420
+./blocks/rose_pyroxene.bmp 570 420
+./blocks/stone.bmp 600 420
+./blocks/rose_pyroxene.bmp 630 420
+./blocks/brick.bmp 660 420
+./blocks/brick.bmp 690 420
+./blocks/stone.bmp 720 420
+./blocks/cobblestone.bmp 750 420
+./blocks/coal_ore.bmp 780 420
+./blocks/stone.bmp 810 420
+./blocks/code_block.bmp 840 420
+./blocks/grass_block.bmp	 870 420
+./blocks/stone.bmp 900 420
+./blocks/cobblestone.bmp 930 420
+./blocks/stone.bmp 0 450
+./blocks/cobblestone.bmp 30 450
+./blocks/cobblestone.bmp 60 450
+./blocks/coal_ore.bmp 90 450
+./blocks/brick.bmp 120 450
+./blocks/coal_ore.bmp 150 450
+./blocks/dirt.bmp	 180 450
+./blocks/dirt.bmp	 210 450
+./blocks/coal_ore.bmp 240 450
+./blocks/cobblestone.bmp 270 450
+./blocks/code_block.bmp 300 450
+./blocks/rose_pyroxene.bmp 330 450
+./blocks/rose_pyroxene.bmp 360 450
+./blocks/dirt.bmp	 390 450
+./blocks/stone.bmp 420 450
+./blocks/dirt.bmp	 450 450
+./blocks/code_block.bmp 480 450
+./blocks/air.bmp 510 450
+./blocks/grass_block.bmp	 540 450
+./blocks/rose_pyroxene.bmp 570 450
+./blocks/obsidian.bmp	 600 450
+./blocks/brick.bmp 630 450
+./blocks/cobblestone.bmp 660 450
+./blocks/air.bmp 690 450
+./blocks/rose_pyroxene.bmp 720 450
+./blocks/dirt.bmp	 750 450
+./blocks/stone.bmp 780 450
+./blocks/code_block.bmp 810 450
+./blocks/dirt.bmp	 840 450
+./blocks/stone.bmp 870 450
+./blocks/air.bmp 900 450
+./blocks/cobblestone.bmp 930 450
+./blocks/stone.bmp 0 480
+./blocks/coal_ore.bmp 30 480
+./blocks/air.bmp 60 480
+./blocks/dirt.bmp	 90 480
+./blocks/cobblestone.bmp 120 480
+./blocks/coal_block.bmp 150 480
+./blocks/brick.bmp 180 480
+./blocks/dirt.bmp	 210 480
+./blocks/stone.bmp 240 480
+./blocks/obsidian.bmp	 270 480
+./blocks/grass_block.bmp	 300 480
+./blocks/brick.bmp 330 480
+./blocks/stone.bmp 360 480
+./blocks/cobblestone.bmp 390 480
+./blocks/code_block.bmp 420 480
+./blocks/cobblestone.bmp 450 480
+./blocks/rose_pyroxene.bmp 480 480
+./blocks/coal_block.bmp 510 480
+./blocks/air.bmp 540 480
+./blocks/code_block.bmp 570 480
+./blocks/code_block.bmp 600 480
+./blocks/grass_block.bmp	 630 480
+./blocks/brick.bmp 660 480
+./blocks/obsidian.bmp	 690 480
+./blocks/obsidian.bmp	 720 480
+./blocks/cobblestone.bmp 750 480
+./blocks/code_block.bmp 780 480
+./blocks/brick.bmp 810 480
+./blocks/air.bmp 840 480
+./blocks/rose_pyroxene.bmp 870 480
+./blocks/obsidian.bmp	 900 480
+./blocks/grass_block.bmp	 930 480
+./blocks/dirt.bmp	 0 510
+./blocks/coal_ore.bmp 30 510
+./blocks/stone.bmp 60 510
+./blocks/grass_block.bmp	 90 510
+./blocks/dirt.bmp	 120 510
+./blocks/dirt.bmp	 150 510
+./blocks/dirt.bmp	 180 510
+./blocks/code_block.bmp 210 510
+./blocks/air.bmp 240 510
+./blocks/grass_block.bmp	 270 510
+./blocks/stone.bmp 300 510
+./blocks/code_block.bmp 330 510
+./blocks/obsidian.bmp	 360 510
+./blocks/air.bmp 390 510
+./blocks/brick.bmp 420 510
+./blocks/code_block.bmp 450 510
+./blocks/obsidian.bmp	 480 510
+./blocks/coal_ore.bmp 510 510
+./blocks/air.bmp 540 510
+./blocks/dirt.bmp	 570 510
+./blocks/coal_block.bmp 600 510
+./blocks/dirt.bmp	 630 510
+./blocks/dirt.bmp	 660 510
+./blocks/cobblestone.bmp 690 510
+./blocks/coal_block.bmp 720 510
+./blocks/coal_ore.bmp 750 510
+./blocks/obsidian.bmp	 780 510
+./blocks/rose_pyroxene.bmp 810 510
+./blocks/coal_block.bmp 840 510
+./blocks/obsidian.bmp	 870 510
+./blocks/rose_pyroxene.bmp 900 510
+./blocks/stone.bmp 930 510
+./blocks/coal_ore.bmp 0 540
+./blocks/coal_block.bmp 30 540
+./blocks/air.bmp 60 540
+./blocks/coal_ore.bmp 90 540
+./blocks/brick.bmp 120 540
+./blocks/cobblestone.bmp 150 540
+./blocks/grass_block.bmp	 180 540
+./blocks/air.bmp 210 540
+./blocks/obsidian.bmp	 240 540
+./blocks/code_block.bmp 270 540
+./blocks/obsidian.bmp	 300 540
+./blocks/air.bmp 330 540
+./blocks/rose_pyroxene.bmp 360 540
+./blocks/grass_block.bmp	 390 540
+./blocks/coal_block.bmp 420 540
+./blocks/rose_pyroxene.bmp 450 540
+./blocks/air.bmp 480 540
+./blocks/air.bmp 510 540
+./blocks/coal_ore.bmp 540 540
+./blocks/stone.bmp 570 540
+./blocks/code_block.bmp 600 540
+./blocks/coal_ore.bmp 630 540
+./blocks/rose_pyroxene.bmp 660 540
+./blocks/coal_ore.bmp 690 540
+./blocks/code_block.bmp 720 540
+./blocks/coal_ore.bmp 750 540
+./blocks/air.bmp 780 540
+./blocks/dirt.bmp	 810 540
+./blocks/coal_ore.bmp 840 540
+./blocks/brick.bmp 870 540
+./blocks/code_block.bmp 900 540
+./blocks/grass_block.bmp	 930 540
+./blocks/brick.bmp 0 0
+./blocks/stone.bmp 30 0
+./blocks/grass_block.bmp	 60 0
+./blocks/cobblestone.bmp 90 0
+./blocks/grass_block.bmp	 120 0
+./blocks/stone.bmp 150 0
+./blocks/stone.bmp 180 0
+./blocks/coal_ore.bmp 210 0
+./blocks/coal_ore.bmp 240 0
+./blocks/grass_block.bmp	 270 0
+./blocks/stone.bmp 300 0
+./blocks/grass_block.bmp	 330 0
+./blocks/grass_block.bmp	 360 0
+./blocks/cobblestone.bmp 390 0
+./blocks/obsidian.bmp	 420 0
+./blocks/code_block.bmp 450 0
+./blocks/coal_ore.bmp 480 0
+./blocks/dirt.bmp	 510 0
+./blocks/air.bmp 540 0
+./blocks/coal_ore.bmp 570 0
+./blocks/coal_ore.bmp 600 0
+./blocks/obsidian.bmp	 630 0
+./blocks/coal_block.bmp 660 0
+./blocks/brick.bmp 690 0
+./blocks/cobblestone.bmp 720 0
+./blocks/grass_block.bmp	 750 0
+./blocks/dirt.bmp	 780 0
+./blocks/coal_block.bmp 810 0
+./blocks/stone.bmp 840 0
+./blocks/coal_block.bmp 870 0
+./blocks/stone.bmp 900 0
+./blocks/brick.bmp 930 0
+./blocks/coal_ore.bmp 0 30
+./blocks/brick.bmp 30 30
+./blocks/stone.bmp 60 30
+./blocks/obsidian.bmp	 90 30
+./blocks/code_block.bmp 120 30
+./blocks/dirt.bmp	 150 30
+./blocks/code_block.bmp 180 30
+./blocks/rose_pyroxene.bmp 210 30
+./blocks/dirt.bmp	 240 30
+./blocks/code_block.bmp 270 30
+./blocks/code_block.bmp 300 30
+./blocks/obsidian.bmp	 330 30
+./blocks/stone.bmp 360 30
+./blocks/cobblestone.bmp 390 30
+./blocks/coal_block.bmp 420 30
+./blocks/cobblestone.bmp 450 30
+./blocks/dirt.bmp	 480 30
+./blocks/grass_block.bmp	 510 30
+./blocks/cobblestone.bmp 540 30
+./blocks/cobblestone.bmp 570 30
+./blocks/coal_ore.bmp 600 30
+./blocks/code_block.bmp 630 30
+./blocks/coal_ore.bmp 660 30
+./blocks/obsidian.bmp	 690 30
+./blocks/coal_block.bmp 720 30
+./blocks/coal_ore.bmp 750 30
+./blocks/dirt.bmp	 780 30
+./blocks/coal_block.bmp 810 30
+./blocks/coal_ore.bmp 840 30
+./blocks/coal_ore.bmp 870 30
+./blocks/rose_pyroxene.bmp 900 30
+./blocks/code_block.bmp 930 30
+./blocks/coal_block.bmp 0 60
+./blocks/dirt.bmp	 30 60
+./blocks/stone.bmp 60 60
+./blocks/brick.bmp 90 60
+./blocks/cobblestone.bmp 120 60
+./blocks/code_block.bmp 150 60
+./blocks/stone.bmp 180 60
+./blocks/cobblestone.bmp 210 60
+./blocks/coal_ore.bmp 240 60
+./blocks/code_block.bmp 270 60
+./blocks/rose_pyroxene.bmp 300 60
+./blocks/code_block.bmp 330 60
+./blocks/dirt.bmp	 360 60
+./blocks/dirt.bmp	 390 60
+./blocks/rose_pyroxene.bmp 420 60
+./blocks/coal_ore.bmp 450 60
+./blocks/grass_block.bmp	 480 60
+./blocks/code_block.bmp 510 60
+./blocks/dirt.bmp	 540 60
+./blocks/air.bmp 570 60
+./blocks/grass_block.bmp	 600 60
+./blocks/rose_pyroxene.bmp 630 60
+./blocks/brick.bmp 660 60
+./blocks/coal_ore.bmp 690 60
+./blocks/brick.bmp 720 60
+./blocks/stone.bmp 750 60
+./blocks/air.bmp 780 60
+./blocks/grass_block.bmp	 810 60
+./blocks/grass_block.bmp	 840 60
+./blocks/brick.bmp 870 60
+./blocks/dirt.bmp	 900 60
+./blocks/code_block.bmp 930 60
+./blocks/air.bmp 0 90
+./blocks/cobblestone.bmp 30 90
+./blocks/brick.bmp 60 90
+./blocks/brick.bmp 90 90
+./blocks/stone.bmp 120 90
+./blocks/stone.bmp 150 90
+./blocks/coal_ore.bmp 180 90
+./blocks/obsidian.bmp	 210 90
+./blocks/air.bmp 240 90
+./blocks/coal_ore.bmp 270 90
+./blocks/dirt.bmp	 300 90
+./blocks/grass_block.bmp	 330 90
+./blocks/stone.bmp 360 90
+./blocks/code_block.bmp 390 90
+./blocks/coal_ore.bmp 420 90
+./blocks/grass_block.bmp	 450 90
+./blocks/dirt.bmp	 480 90
+./blocks/coal_block.bmp 510 90
+./blocks/coal_ore.bmp 540 90
+./blocks/stone.bmp 570 90
+./blocks/coal_ore.bmp 600 90
+./blocks/coal_block.bmp 630 90
+./blocks/code_block.bmp 660 90
+./blocks/coal_ore.bmp 690 90
+./blocks/brick.bmp 720 90
+./blocks/rose_pyroxene.bmp 750 90
+./blocks/code_block.bmp 780 90
+./blocks/coal_block.bmp 810 90
+./blocks/stone.bmp 840 90
+./blocks/brick.bmp 870 90
+./blocks/rose_pyroxene.bmp 900 90
+./blocks/brick.bmp 930 90
+./blocks/air.bmp 0 120
+./blocks/coal_block.bmp 30 120
+./blocks/dirt.bmp	 60 120
+./blocks/coal_block.bmp 90 120
+./blocks/stone.bmp 120 120
+./blocks/stone.bmp 150 120
+./blocks/code_block.bmp 180 120
+./blocks/coal_ore.bmp 210 120
+./blocks/cobblestone.bmp 240 120
+./blocks/dirt.bmp	 270 120
+./blocks/obsidian.bmp	 300 120
+./blocks/coal_block.bmp 330 120
+./blocks/coal_ore.bmp 360 120
+./blocks/rose_pyroxene.bmp 390 120
+./blocks/coal_ore.bmp 420 120
+./blocks/grass_block.bmp	 450 120
+./blocks/brick.bmp 480 120
+./blocks/code_block.bmp 510 120
+./blocks/grass_block.bmp	 540 120
+./blocks/cobblestone.bmp 570 120
+./blocks/brick.bmp 600 120
+./blocks/brick.bmp 630 120
+./blocks/rose_pyroxene.bmp 660 120
+./blocks/air.bmp 690 120
+./blocks/air.bmp 720 120
+./blocks/coal_block.bmp 750 120
+./blocks/grass_block.bmp	 780 120
+./blocks/stone.bmp 810 120
+./blocks/coal_ore.bmp 840 120
+./blocks/brick.bmp 870 120
+./blocks/brick.bmp 900 120
+./blocks/brick.bmp 930 120
+./blocks/coal_block.bmp 0 150
+./blocks/rose_pyroxene.bmp 30 150
+./blocks/obsidian.bmp	 60 150
+./blocks/stone.bmp 90 150
+./blocks/dirt.bmp	 120 150
+./blocks/grass_block.bmp	 150 150
+./blocks/cobblestone.bmp 180 150
+./blocks/stone.bmp 210 150
+./blocks/air.bmp 240 150
+./blocks/coal_ore.bmp 270 150
+./blocks/cobblestone.bmp 300 150
+./blocks/cobblestone.bmp 330 150
+./blocks/obsidian.bmp	 360 150
+./blocks/cobblestone.bmp 390 150
+./blocks/dirt.bmp	 420 150
+./blocks/rose_pyroxene.bmp 450 150
+./blocks/grass_block.bmp	 480 150
+./blocks/stone.bmp 510 150
+./blocks/stone.bmp 540 150
+./blocks/dirt.bmp	 570 150
+./blocks/grass_block.bmp	 600 150
+./blocks/grass_block.bmp	 630 150
+./blocks/grass_block.bmp	 660 150
+./blocks/cobblestone.bmp 690 150
+./blocks/dirt.bmp	 720 150
+./blocks/code_block.bmp 750 150
+./blocks/coal_ore.bmp 780 150
+./blocks/obsidian.bmp	 810 150
+./blocks/obsidian.bmp	 840 150
+./blocks/code_block.bmp 870 150
+./blocks/grass_block.bmp	 900 150
+./blocks/coal_ore.bmp 930 150
+./blocks/code_block.bmp 0 180
+./blocks/dirt.bmp	 30 180
+./blocks/rose_pyroxene.bmp 60 180
+./blocks/code_block.bmp 90 180
+./blocks/rose_pyroxene.bmp 120 180
+./blocks/code_block.bmp 150 180
+./blocks/code_block.bmp 180 180
+./blocks/coal_block.bmp 210 180
+./blocks/grass_block.bmp	 240 180
+./blocks/rose_pyroxene.bmp 270 180
+./blocks/coal_ore.bmp 300 180
+./blocks/rose_pyroxene.bmp 330 180
+./blocks/air.bmp 360 180
+./blocks/coal_ore.bmp 390 180
+./blocks/cobblestone.bmp 420 180
+./blocks/air.bmp 450 180
+./blocks/coal_ore.bmp 480 180
+./blocks/grass_block.bmp	 510 180
+./blocks/code_block.bmp 540 180
+./blocks/obsidian.bmp	 570 180
+./blocks/obsidian.bmp	 600 180
+./blocks/coal_block.bmp 630 180
+./blocks/dirt.bmp	 660 180
+./blocks/air.bmp 690 180
+./blocks/coal_block.bmp 720 180
+./blocks/cobblestone.bmp 750 180
+./blocks/stone.bmp 780 180
+./blocks/obsidian.bmp	 810 180
+./blocks/code_block.bmp 840 180
+./blocks/coal_block.bmp 870 180
+./blocks/cobblestone.bmp 900 180
+./blocks/air.bmp 930 180
+./blocks/dirt.bmp	 0 210
+./blocks/coal_ore.bmp 30 210
+./blocks/obsidian.bmp	 60 210
+./blocks/air.bmp 90 210
+./blocks/brick.bmp 120 210
+./blocks/coal_block.bmp 150 210
+./blocks/obsidian.bmp	 180 210
+./blocks/coal_block.bmp 210 210
+./blocks/obsidian.bmp	 240 210
+./blocks/dirt.bmp	 270 210
+./blocks/cobblestone.bmp 300 210
+./blocks/rose_pyroxene.bmp 330 210
+./blocks/air.bmp 360 210
+./blocks/brick.bmp 390 210
+./blocks/obsidian.bmp	 420 210
+./blocks/code_block.bmp 450 210
+./blocks/rose_pyroxene.bmp 480 210
+./blocks/stone.bmp 510 210
+./blocks/code_block.bmp 540 210
+./blocks/stone.bmp 570 210
+./blocks/rose_pyroxene.bmp 600 210
+./blocks/coal_ore.bmp 630 210
+./blocks/rose_pyroxene.bmp 660 210
+./blocks/rose_pyroxene.bmp 690 210
+./blocks/coal_block.bmp 720 210
+./blocks/coal_ore.bmp 750 210
+./blocks/coal_ore.bmp 780 210
+./blocks/stone.bmp 810 210
+./blocks/dirt.bmp	 840 210
+./blocks/brick.bmp 870 210
+./blocks/brick.bmp 900 210
+./blocks/stone.bmp 930 210
+./blocks/stone.bmp 0 240
+./blocks/code_block.bmp 30 240
+./blocks/obsidian.bmp	 60 240
+./blocks/dirt.bmp	 90 240
+./blocks/rose_pyroxene.bmp 120 240
+./blocks/grass_block.bmp	 150 240
+./blocks/brick.bmp 180 240
+./blocks/code_block.bmp 210 240
+./blocks/brick.bmp 240 240
+./blocks/dirt.bmp	 270 240
+./blocks/air.bmp 300 240
+./blocks/cobblestone.bmp 330 240
+./blocks/grass_block.bmp	 360 240
+./blocks/obsidian.bmp	 390 240
+./blocks/coal_ore.bmp 420 240
+./blocks/grass_block.bmp	 450 240
+./blocks/rose_pyroxene.bmp 480 240
+./blocks/cobblestone.bmp 510 240
+./blocks/air.bmp 540 240
+./blocks/rose_pyroxene.bmp 570 240
+./blocks/coal_ore.bmp 600 240
+./blocks/dirt.bmp	 630 240
+./blocks/coal_block.bmp 660 240
+./blocks/coal_ore.bmp 690 240
+./blocks/cobblestone.bmp 720 240
+./blocks/dirt.bmp	 750 240
+./blocks/coal_block.bmp 780 240
+./blocks/grass_block.bmp	 810 240
+./blocks/brick.bmp 840 240
+./blocks/grass_block.bmp	 870 240
+./blocks/stone.bmp 900 240
+./blocks/stone.bmp 930 240
+./blocks/stone.bmp 0 270
+./blocks/dirt.bmp	 30 270
+./blocks/cobblestone.bmp 60 270
+./blocks/brick.bmp 90 270
+./blocks/coal_block.bmp 120 270
+./blocks/grass_block.bmp	 150 270
+./blocks/rose_pyroxene.bmp 180 270
+./blocks/rose_pyroxene.bmp 210 270
+./blocks/brick.bmp 240 270
+./blocks/obsidian.bmp	 270 270
+./blocks/stone.bmp 300 270
+./blocks/stone.bmp 330 270
+./blocks/rose_pyroxene.bmp 360 270
+./blocks/code_block.bmp 390 270
+./blocks/code_block.bmp 420 270
+./blocks/dirt.bmp	 450 270
+./blocks/code_block.bmp 480 270
+./blocks/grass_block.bmp	 510 270
+./blocks/grass_block.bmp	 540 270
+./blocks/grass_block.bmp	 570 270
+./blocks/dirt.bmp	 600 270
+./blocks/coal_ore.bmp 630 270
+./blocks/air.bmp 660 270
+./blocks/rose_pyroxene.bmp 690 270
+./blocks/grass_block.bmp	 720 270
+./blocks/stone.bmp 750 270
+./blocks/code_block.bmp 780 270
+./blocks/cobblestone.bmp 810 270
+./blocks/rose_pyroxene.bmp 840 270
+./blocks/obsidian.bmp	 870 270
+./blocks/dirt.bmp	 900 270
+./blocks/air.bmp 930 270
+./blocks/coal_ore.bmp 0 300
+./blocks/brick.bmp 30 300
+./blocks/obsidian.bmp	 60 300
+./blocks/code_block.bmp 90 300
+./blocks/brick.bmp 120 300
+./blocks/coal_ore.bmp 150 300
+./blocks/air.bmp 180 300
+./blocks/stone.bmp 210 300
+./blocks/brick.bmp 240 300
+./blocks/stone.bmp 270 300
+./blocks/grass_block.bmp	 300 300
+./blocks/stone.bmp 330 300
+./blocks/brick.bmp 360 300
+./blocks/obsidian.bmp	 390 300
+./blocks/dirt.bmp	 420 300
+./blocks/stone.bmp 450 300
+./blocks/cobblestone.bmp 480 300
+./blocks/coal_block.bmp 510 300
+./blocks/coal_block.bmp 540 300
+./blocks/brick.bmp 570 300
+./blocks/rose_pyroxene.bmp 600 300
+./blocks/grass_block.bmp	 630 300
+./blocks/coal_block.bmp 660 300
+./blocks/stone.bmp 690 300
+./blocks/dirt.bmp	 720 300
+./blocks/obsidian.bmp	 750 300
+./blocks/obsidian.bmp	 780 300
+./blocks/air.bmp 810 300
+./blocks/rose_pyroxene.bmp 840 300
+./blocks/coal_ore.bmp 870 300
+./blocks/obsidian.bmp	 900 300
+./blocks/dirt.bmp	 930 300
+./blocks/stone.bmp 0 330
+./blocks/grass_block.bmp	 30 330
+./blocks/grass_block.bmp	 60 330
+./blocks/dirt.bmp	 90 330
+./blocks/rose_pyroxene.bmp 120 330
+./blocks/air.bmp 150 330
+./blocks/coal_block.bmp 180 330
+./blocks/grass_block.bmp	 210 330
+./blocks/grass_block.bmp	 240 330
+./blocks/code_block.bmp 270 330
+./blocks/cobblestone.bmp 300 330
+./blocks/stone.bmp 330 330
+./blocks/dirt.bmp	 360 330
+./blocks/grass_block.bmp	 390 330
+./blocks/code_block.bmp 420 330
+./blocks/code_block.bmp 450 330
+./blocks/rose_pyroxene.bmp 480 330
+./blocks/coal_ore.bmp 510 330
+./blocks/brick.bmp 540 330
+./blocks/brick.bmp 570 330
+./blocks/coal_ore.bmp 600 330
+./blocks/obsidian.bmp	 630 330
+./blocks/dirt.bmp	 660 330
+./blocks/obsidian.bmp	 690 330
+./blocks/coal_ore.bmp 720 330
+./blocks/obsidian.bmp	 750 330
+./blocks/coal_ore.bmp 780 330
+./blocks/cobblestone.bmp 810 330
+./blocks/grass_block.bmp	 840 330
+./blocks/obsidian.bmp	 870 330
+./blocks/obsidian.bmp	 900 330
+./blocks/brick.bmp 930 330
+./blocks/coal_block.bmp 0 360
+./blocks/coal_ore.bmp 30 360
+./blocks/rose_pyroxene.bmp 60 360
+./blocks/obsidian.bmp	 90 360
+./blocks/stone.bmp 120 360
+./blocks/coal_block.bmp 150 360
+./blocks/cobblestone.bmp 180 360
+./blocks/code_block.bmp 210 360
+./blocks/brick.bmp 240 360
+./blocks/coal_ore.bmp 270 360
+./blocks/rose_pyroxene.bmp 300 360
+./blocks/air.bmp 330 360
+./blocks/air.bmp 360 360
+./blocks/coal_block.bmp 390 360
+./blocks/dirt.bmp	 420 360
+./blocks/obsidian.bmp	 450 360
+./blocks/cobblestone.bmp 480 360
+./blocks/code_block.bmp 510 360
+./blocks/brick.bmp 540 360
+./blocks/coal_ore.bmp 570 360
+./blocks/grass_block.bmp	 600 360
+./blocks/air.bmp 630 360
+./blocks/coal_ore.bmp 660 360
+./blocks/grass_block.bmp	 690 360
+./blocks/air.bmp 720 360
+./blocks/code_block.bmp 750 360
+./blocks/coal_ore.bmp 780 360
+./blocks/rose_pyroxene.bmp 810 360
+./blocks/brick.bmp 840 360
+./blocks/stone.bmp 870 360
+./blocks/air.bmp 900 360
+./blocks/rose_pyroxene.bmp 930 360
+./blocks/coal_ore.bmp 0 390
+./blocks/air.bmp 30 390
+./blocks/brick.bmp 60 390
+./blocks/brick.bmp 90 390
+./blocks/code_block.bmp 120 390
+./blocks/grass_block.bmp	 150 390
+./blocks/stone.bmp 180 390
+./blocks/obsidian.bmp	 210 390
+./blocks/brick.bmp 240 390
+./blocks/grass_block.bmp	 270 390
+./blocks/dirt.bmp	 300 390
+./blocks/dirt.bmp	 330 390
+./blocks/cobblestone.bmp 360 390
+./blocks/coal_block.bmp 390 390
+./blocks/code_block.bmp 420 390
+./blocks/cobblestone.bmp 450 390
+./blocks/coal_ore.bmp 480 390
+./blocks/rose_pyroxene.bmp 510 390
+./blocks/stone.bmp 540 390
+./blocks/air.bmp 570 390
+./blocks/air.bmp 600 390
+./blocks/air.bmp 630 390
+./blocks/coal_ore.bmp 660 390
+./blocks/cobblestone.bmp 690 390
+./blocks/stone.bmp 720 390
+./blocks/brick.bmp 750 390
+./blocks/cobblestone.bmp 780 390
+./blocks/brick.bmp 810 390
+./blocks/rose_pyroxene.bmp 840 390
+./blocks/brick.bmp 870 390
+./blocks/stone.bmp 900 390
+./blocks/cobblestone.bmp 930 390
+./blocks/grass_block.bmp	 0 420
+./blocks/brick.bmp 30 420
+./blocks/code_block.bmp 60 420
+./blocks/brick.bmp 90 420
+./blocks/obsidian.bmp	 120 420
+./blocks/obsidian.bmp	 150 420
+./blocks/coal_ore.bmp 180 420
+./blocks/coal_block.bmp 210 420
+./blocks/dirt.bmp	 240 420
+./blocks/coal_ore.bmp 270 420
+./blocks/stone.bmp 300 420
+./blocks/air.bmp 330 420
+./blocks/brick.bmp 360 420
+./blocks/coal_block.bmp 390 420
+./blocks/coal_block.bmp 420 420
+./blocks/code_block.bmp 450 420
+./blocks/code_block.bmp 480 420
+./blocks/rose_pyroxene.bmp 510 420
+./blocks/air.bmp 540 420
+./blocks/grass_block.bmp	 570 420
+./blocks/brick.bmp 600 420
+./blocks/coal_block.bmp 630 420
+./blocks/grass_block.bmp	 660 420
+./blocks/stone.bmp 690 420
+./blocks/brick.bmp 720 420
+./blocks/brick.bmp 750 420
+./blocks/coal_block.bmp 780 420
+./blocks/rose_pyroxene.bmp 810 420
+./blocks/coal_block.bmp 840 420
+./blocks/code_block.bmp 870 420
+./blocks/coal_block.bmp 900 420
+./blocks/cobblestone.bmp 930 420
+./blocks/air.bmp 0 450
+./blocks/rose_pyroxene.bmp 30 450
+./blocks/dirt.bmp	 60 450
+./blocks/coal_block.bmp 90 450
+./blocks/grass_block.bmp	 120 450
+./blocks/dirt.bmp	 150 450
+./blocks/cobblestone.bmp 180 450
+./blocks/coal_ore.bmp 210 450
+./blocks/grass_block.bmp	 240 450
+./blocks/coal_ore.bmp 270 450
+./blocks/cobblestone.bmp 300 450
+./blocks/air.bmp 330 450
+./blocks/dirt.bmp	 360 450
+./blocks/dirt.bmp	 390 450
+./blocks/stone.bmp 420 450
+./blocks/air.bmp 450 450
+./blocks/code_block.bmp 480 450
+./blocks/dirt.bmp	 510 450
+./blocks/stone.bmp 540 450
+./blocks/rose_pyroxene.bmp 570 450
+./blocks/brick.bmp 600 450
+./blocks/obsidian.bmp	 630 450
+./blocks/cobblestone.bmp 660 450
+./blocks/coal_ore.bmp 690 450
+./blocks/air.bmp 720 450
+./blocks/coal_block.bmp 750 450
+./blocks/stone.bmp 780 450
+./blocks/coal_ore.bmp 810 450
+./blocks/cobblestone.bmp 840 450
+./blocks/brick.bmp 870 450
+./blocks/grass_block.bmp	 900 450
+./blocks/rose_pyroxene.bmp 930 450
+./blocks/stone.bmp 0 480
+./blocks/air.bmp 30 480
+./blocks/code_block.bmp 60 480
+./blocks/air.bmp 90 480
+./blocks/dirt.bmp	 120 480
+./blocks/air.bmp 150 480
+./blocks/dirt.bmp	 180 480
+./blocks/coal_block.bmp 210 480
+./blocks/code_block.bmp 240 480
+./blocks/coal_block.bmp 270 480
+./blocks/stone.bmp 300 480
+./blocks/rose_pyroxene.bmp 330 480
+./blocks/stone.bmp 360 480
+./blocks/code_block.bmp 390 480
+./blocks/brick.bmp 420 480
+./blocks/code_block.bmp 450 480
+./blocks/grass_block.bmp	 480 480
+./blocks/coal_ore.bmp 510 480
+./blocks/rose_pyroxene.bmp 540 480
+./blocks/coal_ore.bmp 570 480
+./blocks/code_block.bmp 600 480
+./blocks/grass_block.bmp	 630 480
+./blocks/obsidian.bmp	 660 480
+./blocks/obsidian.bmp	 690 480
+./blocks/coal_block.bmp 720 480
+./blocks/stone.bmp 750 480
+./blocks/stone.bmp 780 480
+./blocks/grass_block.bmp	 810 480
+./blocks/rose_pyroxene.bmp 840 480
+./blocks/code_block.bmp 870 480
+./blocks/cobblestone.bmp 900 480
+./blocks/code_block.bmp 930 480
+./blocks/cobblestone.bmp 0 510
+./blocks/rose_pyroxene.bmp 30 510
+./blocks/coal_ore.bmp 60 510
+./blocks/rose_pyroxene.bmp 90 510
+./blocks/stone.bmp 120 510
+./blocks/dirt.bmp	 150 510
+./blocks/coal_ore.bmp 180 510
+./blocks/coal_block.bmp 210 510
+./blocks/dirt.bmp	 240 510
+./blocks/coal_block.bmp 270 510
+./blocks/brick.bmp 300 510
+./blocks/air.bmp 330 510
+./blocks/grass_block.bmp	 360 510
+./blocks/brick.bmp 390 510
+./blocks/stone.bmp 420 510
+./blocks/code_block.bmp 450 510
+./blocks/dirt.bmp	 480 510
+./blocks/coal_ore.bmp 510 510
+./blocks/code_block.bmp 540 510
+./blocks/coal_ore.bmp 570 510
+./blocks/cobblestone.bmp 600 510
+./blocks/grass_block.bmp	 630 510
+./blocks/rose_pyroxene.bmp 660 510
+./blocks/rose_pyroxene.bmp 690 510
+./blocks/cobblestone.bmp 720 510
+./blocks/brick.bmp 750 510
+./blocks/rose_pyroxene.bmp 780 510
+./blocks/grass_block.bmp	 810 510
+./blocks/code_block.bmp 840 510
+./blocks/obsidian.bmp	 870 510
+./blocks/cobblestone.bmp 900 510
+./blocks/rose_pyroxene.bmp 930 510
+./blocks/code_block.bmp 0 540
+./blocks/obsidian.bmp	 30 540
+./blocks/rose_pyroxene.bmp 60 540
+./blocks/code_block.bmp 90 540
+./blocks/rose_pyroxene.bmp 120 540
+./blocks/code_block.bmp 150 540
+./blocks/dirt.bmp	 180 540
+./blocks/coal_block.bmp 210 540
+./blocks/cobblestone.bmp 240 540
+./blocks/obsidian.bmp	 270 540
+./blocks/stone.bmp 300 540
+./blocks/code_block.bmp 330 540
+./blocks/stone.bmp 360 540
+./blocks/stone.bmp 390 540
+./blocks/coal_ore.bmp 420 540
+./blocks/dirt.bmp	 450 540
+./blocks/code_block.bmp 480 540
+./blocks/coal_block.bmp 510 540
+./blocks/dirt.bmp	 540 540
+./blocks/dirt.bmp	 570 540
+./blocks/coal_block.bmp 600 540
+./blocks/dirt.bmp	 630 540
+./blocks/brick.bmp 660 540
+./blocks/obsidian.bmp	 690 540
+./blocks/air.bmp 720 540
+./blocks/stone.bmp 750 540
+./blocks/air.bmp 780 540
+./blocks/coal_block.bmp 810 540
+./blocks/rose_pyroxene.bmp 840 540
+./blocks/coal_ore.bmp 870 540
+./blocks/cobblestone.bmp 900 540
+./blocks/coal_ore.bmp 930 540
+./blocks/dirt.bmp	 0 0
+./blocks/cobblestone.bmp 30 0
+./blocks/cobblestone.bmp 60 0
+./blocks/coal_block.bmp 90 0
+./blocks/dirt.bmp	 120 0
+./blocks/dirt.bmp	 150 0
+./blocks/brick.bmp 180 0
+./blocks/cobblestone.bmp 210 0
+./blocks/code_block.bmp 240 0
+./blocks/stone.bmp 270 0
+./blocks/stone.bmp 300 0
+./blocks/obsidian.bmp	 330 0
+./blocks/brick.bmp 360 0
+./blocks/obsidian.bmp	 390 0
+./blocks/dirt.bmp	 420 0
+./blocks/brick.bmp 450 0
+./blocks/stone.bmp 480 0
+./blocks/code_block.bmp 510 0
+./blocks/coal_ore.bmp 540 0
+./blocks/obsidian.bmp	 570 0
+./blocks/coal_ore.bmp 600 0
+./blocks/cobblestone.bmp 630 0
+./blocks/dirt.bmp	 660 0
+./blocks/code_block.bmp 690 0
+./blocks/air.bmp 720 0
+./blocks/grass_block.bmp	 750 0
+./blocks/obsidian.bmp	 780 0
+./blocks/obsidian.bmp	 810 0
+./blocks/coal_ore.bmp 840 0
+./blocks/obsidian.bmp	 870 0
+./blocks/stone.bmp 900 0
+./blocks/grass_block.bmp	 930 0
+./blocks/air.bmp 0 30
+./blocks/dirt.bmp	 30 30
+./blocks/cobblestone.bmp 60 30
+./blocks/coal_ore.bmp 90 30
+./blocks/code_block.bmp 120 30
+./blocks/rose_pyroxene.bmp 150 30
+./blocks/code_block.bmp 180 30
+./blocks/code_block.bmp 210 30
+./blocks/stone.bmp 240 30
+./blocks/coal_ore.bmp 270 30
+./blocks/coal_block.bmp 300 30
+./blocks/code_block.bmp 330 30
+./blocks/coal_ore.bmp 360 30
+./blocks/air.bmp 390 30
+./blocks/grass_block.bmp	 420 30
+./blocks/coal_ore.bmp 450 30
+./blocks/cobblestone.bmp 480 30
+./blocks/coal_block.bmp 510 30
+./blocks/coal_ore.bmp 540 30
+./blocks/stone.bmp 570 30
+./blocks/obsidian.bmp	 600 30
+./blocks/dirt.bmp	 630 30
+./blocks/brick.bmp 660 30
+./blocks/coal_block.bmp 690 30
+./blocks/coal_ore.bmp 720 30
+./blocks/coal_block.bmp 750 30
+./blocks/code_block.bmp 780 30
+./blocks/air.bmp 810 30
+./blocks/coal_ore.bmp 840 30
+./blocks/air.bmp 870 30
+./blocks/code_block.bmp 900 30
+./blocks/code_block.bmp 930 30
+./blocks/air.bmp 0 60
+./blocks/coal_ore.bmp 30 60
+./blocks/dirt.bmp	 60 60
+./blocks/coal_ore.bmp 90 60
+./blocks/dirt.bmp	 120 60
+./blocks/air.bmp 150 60
+./blocks/coal_ore.bmp 180 60
+./blocks/code_block.bmp 210 60
+./blocks/code_block.bmp 240 60
+./blocks/brick.bmp 270 60
+./blocks/brick.bmp 300 60
+./blocks/dirt.bmp	 330 60
+./blocks/rose_pyroxene.bmp 360 60
+./blocks/coal_ore.bmp 390 60
+./blocks/dirt.bmp	 420 60
+./blocks/coal_block.bmp 450 60
+./blocks/air.bmp 480 60
+./blocks/air.bmp 510 60
+./blocks/obsidian.bmp	 540 60
+./blocks/coal_ore.bmp 570 60
+./blocks/rose_pyroxene.bmp 600 60
+./blocks/rose_pyroxene.bmp 630 60
+./blocks/coal_ore.bmp 660 60
+./blocks/stone.bmp 690 60
+./blocks/rose_pyroxene.bmp 720 60
+./blocks/brick.bmp 750 60
+./blocks/rose_pyroxene.bmp 780 60
+./blocks/dirt.bmp	 810 60
+./blocks/rose_pyroxene.bmp 840 60
+./blocks/cobblestone.bmp 870 60
+./blocks/code_block.bmp 900 60
+./blocks/dirt.bmp	 930 60
+./blocks/rose_pyroxene.bmp 0 90
+./blocks/code_block.bmp 30 90
+./blocks/dirt.bmp	 60 90
+./blocks/stone.bmp 90 90
+./blocks/brick.bmp 120 90
+./blocks/coal_block.bmp 150 90
+./blocks/rose_pyroxene.bmp 180 90
+./blocks/coal_ore.bmp 210 90
+./blocks/air.bmp 240 90
+./blocks/rose_pyroxene.bmp 270 90
+./blocks/brick.bmp 300 90
+./blocks/coal_ore.bmp 330 90
+./blocks/coal_ore.bmp 360 90
+./blocks/air.bmp 390 90
+./blocks/rose_pyroxene.bmp 420 90
+./blocks/brick.bmp 450 90
+./blocks/rose_pyroxene.bmp 480 90
+./blocks/brick.bmp 510 90
+./blocks/dirt.bmp	 540 90
+./blocks/coal_block.bmp 570 90
+./blocks/dirt.bmp	 600 90
+./blocks/coal_block.bmp 630 90
+./blocks/coal_ore.bmp 660 90
+./blocks/grass_block.bmp	 690 90
+./blocks/dirt.bmp	 720 90
+./blocks/obsidian.bmp	 750 90
+./blocks/stone.bmp 780 90
+./blocks/code_block.bmp 810 90
+./blocks/code_block.bmp 840 90
+./blocks/code_block.bmp 870 90
+./blocks/cobblestone.bmp 900 90
+./blocks/rose_pyroxene.bmp 930 90
+./blocks/coal_ore.bmp 0 120
+./blocks/rose_pyroxene.bmp 30 120
+./blocks/stone.bmp 60 120
+./blocks/air.bmp 90 120
+./blocks/coal_ore.bmp 120 120
+./blocks/cobblestone.bmp 150 120
+./blocks/code_block.bmp 180 120
+./blocks/code_block.bmp 210 120
+./blocks/obsidian.bmp	 240 120
+./blocks/stone.bmp 270 120
+./blocks/obsidian.bmp	 300 120
+./blocks/coal_block.bmp 330 120
+./blocks/rose_pyroxene.bmp 360 120
+./blocks/rose_pyroxene.bmp 390 120
+./blocks/code_block.bmp 420 120
+./blocks/dirt.bmp	 450 120
+./blocks/grass_block.bmp	 480 120
+./blocks/cobblestone.bmp 510 120
+./blocks/dirt.bmp	 540 120
+./blocks/brick.bmp 570 120
+./blocks/obsidian.bmp	 600 120
+./blocks/obsidian.bmp	 630 120
+./blocks/brick.bmp 660 120
+./blocks/air.bmp 690 120
+./blocks/coal_ore.bmp 720 120
+./blocks/coal_ore.bmp 750 120
+./blocks/coal_ore.bmp 780 120
+./blocks/cobblestone.bmp 810 120
+./blocks/grass_block.bmp	 840 120
+./blocks/stone.bmp 870 120
+./blocks/rose_pyroxene.bmp 900 120
+./blocks/obsidian.bmp	 930 120
+./blocks/air.bmp 0 150
+./blocks/rose_pyroxene.bmp 30 150
+./blocks/grass_block.bmp	 60 150
+./blocks/obsidian.bmp	 90 150
+./blocks/code_block.bmp 120 150
+./blocks/air.bmp 150 150
+./blocks/code_block.bmp 180 150
+./blocks/air.bmp 210 150
+./blocks/rose_pyroxene.bmp 240 150
+./blocks/air.bmp 270 150
+./blocks/air.bmp 300 150
+./blocks/obsidian.bmp	 330 150
+./blocks/stone.bmp 360 150
+./blocks/stone.bmp 390 150
+./blocks/obsidian.bmp	 420 150
+./blocks/brick.bmp 450 150
+./blocks/grass_block.bmp	 480 150
+./blocks/grass_block.bmp	 510 150
+./blocks/air.bmp 540 150
+./blocks/rose_pyroxene.bmp 570 150
+./blocks/stone.bmp 600 150
+./blocks/air.bmp 630 150
+./blocks/coal_ore.bmp 660 150
+./blocks/stone.bmp 690 150
+./blocks/coal_ore.bmp 720 150
+./blocks/air.bmp 750 150
+./blocks/rose_pyroxene.bmp 780 150
+./blocks/rose_pyroxene.bmp 810 150
+./blocks/rose_pyroxene.bmp 840 150
+./blocks/air.bmp 870 150
+./blocks/air.bmp 900 150
+./blocks/code_block.bmp 930 150
+./blocks/coal_ore.bmp 0 180
+./blocks/air.bmp 30 180
+./blocks/grass_block.bmp	 60 180
+./blocks/coal_ore.bmp 90 180
+./blocks/coal_block.bmp 120 180
+./blocks/cobblestone.bmp 150 180
+./blocks/obsidian.bmp	 180 180
+./blocks/coal_block.bmp 210 180
+./blocks/dirt.bmp	 240 180
+./blocks/code_block.bmp 270 180
+./blocks/grass_block.bmp	 300 180
+./blocks/dirt.bmp	 330 180
+./blocks/code_block.bmp 360 180
+./blocks/coal_block.bmp 390 180
+./blocks/dirt.bmp	 420 180
+./blocks/brick.bmp 450 180
+./blocks/brick.bmp 480 180
+./blocks/air.bmp 510 180
+./blocks/obsidian.bmp	 540 180
+./blocks/cobblestone.bmp 570 180
+./blocks/air.bmp 600 180
+./blocks/air.bmp 630 180
+./blocks/brick.bmp 660 180
+./blocks/dirt.bmp	 690 180
+./blocks/obsidian.bmp	 720 180
+./blocks/dirt.bmp	 750 180
+./blocks/stone.bmp 780 180
+./blocks/stone.bmp 810 180
+./blocks/coal_block.bmp 840 180
+./blocks/obsidian.bmp	 870 180
+./blocks/coal_block.bmp 900 180
+./blocks/air.bmp 930 180
+./blocks/obsidian.bmp	 0 210
+./blocks/stone.bmp 30 210
+./blocks/dirt.bmp	 60 210
+./blocks/cobblestone.bmp 90 210
+./blocks/dirt.bmp	 120 210
+./blocks/obsidian.bmp	 150 210
+./blocks/stone.bmp 180 210
+./blocks/rose_pyroxene.bmp 210 210
+./blocks/coal_ore.bmp 240 210
+./blocks/grass_block.bmp	 270 210
+./blocks/stone.bmp 300 210
+./blocks/code_block.bmp 330 210
+./blocks/air.bmp 360 210
+./blocks/rose_pyroxene.bmp 390 210
+./blocks/air.bmp 420 210
+./blocks/obsidian.bmp	 450 210
+./blocks/coal_block.bmp 480 210
+./blocks/code_block.bmp 510 210
+./blocks/code_block.bmp 540 210
+./blocks/grass_block.bmp	 570 210
+./blocks/code_block.bmp 600 210
+./blocks/cobblestone.bmp 630 210
+./blocks/grass_block.bmp	 660 210
+./blocks/stone.bmp 690 210
+./blocks/brick.bmp 720 210
+./blocks/grass_block.bmp	 750 210
+./blocks/brick.bmp 780 210
+./blocks/code_block.bmp 810 210
+./blocks/air.bmp 840 210
+./blocks/coal_ore.bmp 870 210
+./blocks/brick.bmp 900 210
+./blocks/rose_pyroxene.bmp 930 210
+./blocks/brick.bmp 0 240
+./blocks/coal_ore.bmp 30 240
+./blocks/code_block.bmp 60 240
+./blocks/coal_block.bmp 90 240
+./blocks/code_block.bmp 120 240
+./blocks/cobblestone.bmp 150 240
+./blocks/coal_ore.bmp 180 240
+./blocks/coal_block.bmp 210 240
+./blocks/coal_block.bmp 240 240
+./blocks/air.bmp 270 240
+./blocks/coal_ore.bmp 300 240
+./blocks/coal_block.bmp 330 240
+./blocks/code_block.bmp 360 240
+./blocks/coal_block.bmp 390 240
+./blocks/coal_ore.bmp 420 240
+./blocks/coal_ore.bmp 450 240
+./blocks/stone.bmp 480 240
+./blocks/air.bmp 510 240
+./blocks/grass_block.bmp	 540 240
+./blocks/dirt.bmp	 570 240
+./blocks/coal_block.bmp 600 240
+./blocks/air.bmp 630 240
+./blocks/grass_block.bmp	 660 240
+./blocks/coal_block.bmp 690 240
+./blocks/coal_block.bmp 720 240
+./blocks/stone.bmp 750 240
+./blocks/brick.bmp 780 240
+./blocks/coal_ore.bmp 810 240
+./blocks/cobblestone.bmp 840 240
+./blocks/coal_ore.bmp 870 240
+./blocks/stone.bmp 900 240
+./blocks/coal_block.bmp 930 240
+./blocks/obsidian.bmp	 0 270
+./blocks/code_block.bmp 30 270
+./blocks/rose_pyroxene.bmp 60 270
+./blocks/dirt.bmp	 90 270
+./blocks/obsidian.bmp	 120 270
+./blocks/rose_pyroxene.bmp 150 270
+./blocks/air.bmp 180 270
+./blocks/code_block.bmp 210 270
+./blocks/coal_ore.bmp 240 270
+./blocks/dirt.bmp	 270 270
+./blocks/air.bmp 300 270
+./blocks/dirt.bmp	 330 270
+./blocks/cobblestone.bmp 360 270
+./blocks/air.bmp 390 270
+./blocks/grass_block.bmp	 420 270
+./blocks/coal_ore.bmp 450 270
+./blocks/air.bmp 480 270
+./blocks/coal_ore.bmp 510 270
+./blocks/cobblestone.bmp 540 270
+./blocks/rose_pyroxene.bmp 570 270
+./blocks/grass_block.bmp	 600 270
+./blocks/rose_pyroxene.bmp 630 270
+./blocks/grass_block.bmp	 660 270
+./blocks/coal_block.bmp 690 270
+./blocks/obsidian.bmp	 720 270
+./blocks/dirt.bmp	 750 270
+./blocks/code_block.bmp 780 270
+./blocks/rose_pyroxene.bmp 810 270
+./blocks/obsidian.bmp	 840 270
+./blocks/stone.bmp 870 270
+./blocks/brick.bmp 900 270
+./blocks/code_block.bmp 930 270
+./blocks/rose_pyroxene.bmp 0 300
+./blocks/coal_block.bmp 30 300
+./blocks/coal_block.bmp 60 300
+./blocks/stone.bmp 90 300
+./blocks/coal_ore.bmp 120 300
+./blocks/brick.bmp 150 300
+./blocks/code_block.bmp 180 300
+./blocks/rose_pyroxene.bmp 210 300
+./blocks/brick.bmp 240 300
+./blocks/obsidian.bmp	 270 300
+./blocks/brick.bmp 300 300
+./blocks/brick.bmp 330 300
+./blocks/stone.bmp 360 300
+./blocks/air.bmp 390 300
+./blocks/obsidian.bmp	 420 300
+./blocks/code_block.bmp 450 300
+./blocks/coal_block.bmp 480 300
+./blocks/code_block.bmp 510 300
+./blocks/coal_ore.bmp 540 300
+./blocks/coal_ore.bmp 570 300
+./blocks/coal_ore.bmp 600 300
+./blocks/dirt.bmp	 630 300
+./blocks/dirt.bmp	 660 300
+./blocks/rose_pyroxene.bmp 690 300
+./blocks/grass_block.bmp	 720 300
+./blocks/brick.bmp 750 300
+./blocks/rose_pyroxene.bmp 780 300
+./blocks/rose_pyroxene.bmp 810 300
+./blocks/brick.bmp 840 300
+./blocks/cobblestone.bmp 870 300
+./blocks/code_block.bmp 900 300
+./blocks/rose_pyroxene.bmp 930 300
+./blocks/dirt.bmp	 0 330
+./blocks/stone.bmp 30 330
+./blocks/code_block.bmp 60 330
+./blocks/coal_block.bmp 90 330
+./blocks/brick.bmp 120 330
+./blocks/air.bmp 150 330
+./blocks/air.bmp 180 330
+./blocks/rose_pyroxene.bmp 210 330
+./blocks/dirt.bmp	 240 330
+./blocks/cobblestone.bmp 270 330
+./blocks/brick.bmp 300 330
+./blocks/grass_block.bmp	 330 330
+./blocks/obsidian.bmp	 360 330
+./blocks/coal_block.bmp 390 330
+./blocks/obsidian.bmp	 420 330
+./blocks/brick.bmp 450 330
+./blocks/coal_block.bmp 480 330
+./blocks/coal_block.bmp 510 330
+./blocks/stone.bmp 540 330
+./blocks/coal_ore.bmp 570 330
+./blocks/stone.bmp 600 330
+./blocks/grass_block.bmp	 630 330
+./blocks/air.bmp 660 330
+./blocks/rose_pyroxene.bmp 690 330
+./blocks/brick.bmp 720 330
+./blocks/stone.bmp 750 330
+./blocks/air.bmp 780 330
+./blocks/brick.bmp 810 330
+./blocks/air.bmp 840 330
+./blocks/cobblestone.bmp 870 330
+./blocks/brick.bmp 900 330
+./blocks/air.bmp 930 330
+./blocks/dirt.bmp	 0 360
+./blocks/brick.bmp 30 360
+./blocks/coal_block.bmp 60 360
+./blocks/coal_ore.bmp 90 360
+./blocks/code_block.bmp 120 360
+./blocks/coal_ore.bmp 150 360
+./blocks/coal_ore.bmp 180 360
+./blocks/grass_block.bmp	 210 360
+./blocks/grass_block.bmp	 240 360
+./blocks/cobblestone.bmp 270 360
+./blocks/rose_pyroxene.bmp 300 360
+./blocks/coal_block.bmp 330 360
+./blocks/code_block.bmp 360 360
+./blocks/dirt.bmp	 390 360
+./blocks/obsidian.bmp	 420 360
+./blocks/dirt.bmp	 450 360
+./blocks/cobblestone.bmp 480 360
+./blocks/obsidian.bmp	 510 360
+./blocks/obsidian.bmp	 540 360
+./blocks/stone.bmp 570 360
+./blocks/cobblestone.bmp 600 360
+./blocks/coal_block.bmp 630 360
+./blocks/obsidian.bmp	 660 360
+./blocks/dirt.bmp	 690 360
+./blocks/stone.bmp 720 360
+./blocks/dirt.bmp	 750 360
+./blocks/grass_block.bmp	 780 360
+./blocks/code_block.bmp 810 360
+./blocks/cobblestone.bmp 840 360
+./blocks/stone.bmp 870 360
+./blocks/coal_ore.bmp 900 360
+./blocks/coal_block.bmp 930 360
+./blocks/coal_block.bmp 0 390
+./blocks/stone.bmp 30 390
+./blocks/air.bmp 60 390
+./blocks/air.bmp 90 390
+./blocks/stone.bmp 120 390
+./blocks/obsidian.bmp	 150 390
+./blocks/air.bmp 180 390
+./blocks/dirt.bmp	 210 390
+./blocks/dirt.bmp	 240 390
+./blocks/code_block.bmp 270 390
+./blocks/cobblestone.bmp 300 390
+./blocks/cobblestone.bmp 330 390
+./blocks/obsidian.bmp	 360 390
+./blocks/dirt.bmp	 390 390
+./blocks/dirt.bmp	 420 390
+./blocks/cobblestone.bmp 450 390
+./blocks/dirt.bmp	 480 390
+./blocks/obsidian.bmp	 510 390
+./blocks/coal_ore.bmp 540 390
+./blocks/obsidian.bmp	 570 390
+./blocks/cobblestone.bmp 600 390
+./blocks/grass_block.bmp	 630 390
+./blocks/code_block.bmp 660 390
+./blocks/obsidian.bmp	 690 390
+./blocks/cobblestone.bmp 720 390
+./blocks/grass_block.bmp	 750 390
+./blocks/air.bmp 780 390
+./blocks/code_block.bmp 810 390
+./blocks/coal_ore.bmp 840 390
+./blocks/coal_block.bmp 870 390
+./blocks/obsidian.bmp	 900 390
+./blocks/stone.bmp 930 390
+./blocks/coal_ore.bmp 0 420
+./blocks/brick.bmp 30 420
+./blocks/brick.bmp 60 420
+./blocks/cobblestone.bmp 90 420
+./blocks/coal_ore.bmp 120 420
+./blocks/air.bmp 150 420
+./blocks/rose_pyroxene.bmp 180 420
+./blocks/coal_block.bmp 210 420
+./blocks/coal_ore.bmp 240 420
+./blocks/cobblestone.bmp 270 420
+./blocks/code_block.bmp 300 420
+./blocks/code_block.bmp 330 420
+./blocks/air.bmp 360 420
+./blocks/dirt.bmp	 390 420
+./blocks/cobblestone.bmp 420 420
+./blocks/cobblestone.bmp 450 420
+./blocks/grass_block.bmp	 480 420
+./blocks/code_block.bmp 510 420
+./blocks/code_block.bmp 540 420
+./blocks/stone.bmp 570 420
+./blocks/stone.bmp 600 420
+./blocks/coal_block.bmp 630 420
+./blocks/obsidian.bmp	 660 420
+./blocks/grass_block.bmp	 690 420
+./blocks/air.bmp 720 420
+./blocks/rose_pyroxene.bmp 750 420
+./blocks/obsidian.bmp	 780 420
+./blocks/rose_pyroxene.bmp 810 420
+./blocks/obsidian.bmp	 840 420
+./blocks/stone.bmp 870 420
+./blocks/air.bmp 900 420
+./blocks/coal_block.bmp 930 420
+./blocks/grass_block.bmp	 0 450
+./blocks/dirt.bmp	 30 450
+./blocks/code_block.bmp 60 450
+./blocks/cobblestone.bmp 90 450
+./blocks/rose_pyroxene.bmp 120 450
+./blocks/brick.bmp 150 450
+./blocks/grass_block.bmp	 180 450
+./blocks/code_block.bmp 210 450
+./blocks/coal_ore.bmp 240 450
+./blocks/brick.bmp 270 450
+./blocks/coal_block.bmp 300 450
+./blocks/obsidian.bmp	 330 450
+./blocks/code_block.bmp 360 450
+./blocks/air.bmp 390 450
+./blocks/coal_ore.bmp 420 450
+./blocks/coal_block.bmp 450 450
+./blocks/code_block.bmp 480 450
+./blocks/dirt.bmp	 510 450
+./blocks/grass_block.bmp	 540 450
+./blocks/dirt.bmp	 570 450
+./blocks/obsidian.bmp	 600 450
+./blocks/coal_block.bmp 630 450
+./blocks/obsidian.bmp	 660 450
+./blocks/coal_ore.bmp 690 450
+./blocks/obsidian.bmp	 720 450
+./blocks/stone.bmp 750 450
+./blocks/coal_ore.bmp 780 450
+./blocks/obsidian.bmp	 810 450
+./blocks/code_block.bmp 840 450
+./blocks/cobblestone.bmp 870 450
+./blocks/grass_block.bmp	 900 450
+./blocks/grass_block.bmp	 930 450
+./blocks/cobblestone.bmp 0 480
+./blocks/grass_block.bmp	 30 480
+./blocks/stone.bmp 60 480
+./blocks/code_block.bmp 90 480
+./blocks/coal_block.bmp 120 480
+./blocks/cobblestone.bmp 150 480
+./blocks/coal_block.bmp 180 480
+./blocks/rose_pyroxene.bmp 210 480
+./blocks/brick.bmp 240 480
+./blocks/grass_block.bmp	 270 480
+./blocks/brick.bmp 300 480
+./blocks/obsidian.bmp	 330 480
+./blocks/brick.bmp 360 480
+./blocks/brick.bmp 390 480
+./blocks/grass_block.bmp	 420 480
+./blocks/code_block.bmp 450 480
+./blocks/dirt.bmp	 480 480
+./blocks/stone.bmp 510 480
+./blocks/coal_ore.bmp 540 480
+./blocks/code_block.bmp 570 480
+./blocks/dirt.bmp	 600 480
+./blocks/obsidian.bmp	 630 480
+./blocks/cobblestone.bmp 660 480
+./blocks/brick.bmp 690 480
+./blocks/coal_block.bmp 720 480
+./blocks/obsidian.bmp	 750 480
+./blocks/cobblestone.bmp 780 480
+./blocks/brick.bmp 810 480
+./blocks/brick.bmp 840 480
+./blocks/obsidian.bmp	 870 480
+./blocks/brick.bmp 900 480
+./blocks/code_block.bmp 930 480
+./blocks/brick.bmp 0 510
+./blocks/coal_block.bmp 30 510
+./blocks/grass_block.bmp	 60 510
+./blocks/rose_pyroxene.bmp 90 510
+./blocks/rose_pyroxene.bmp 120 510
+./blocks/coal_ore.bmp 150 510
+./blocks/stone.bmp 180 510
+./blocks/obsidian.bmp	 210 510
+./blocks/rose_pyroxene.bmp 240 510
+./blocks/stone.bmp 270 510
+./blocks/cobblestone.bmp 300 510
+./blocks/air.bmp 330 510
+./blocks/grass_block.bmp	 360 510
+./blocks/rose_pyroxene.bmp 390 510
+./blocks/stone.bmp 420 510
+./blocks/cobblestone.bmp 450 510
+./blocks/coal_ore.bmp 480 510
+./blocks/coal_block.bmp 510 510
+./blocks/rose_pyroxene.bmp 540 510
+./blocks/rose_pyroxene.bmp 570 510
+./blocks/brick.bmp 600 510
+./blocks/air.bmp 630 510
+./blocks/cobblestone.bmp 660 510
+./blocks/air.bmp 690 510
+./blocks/stone.bmp 720 510
+./blocks/obsidian.bmp	 750 510
+./blocks/stone.bmp 780 510
+./blocks/grass_block.bmp	 810 510
+./blocks/obsidian.bmp	 840 510
+./blocks/coal_block.bmp 870 510
+./blocks/code_block.bmp 900 510
+./blocks/dirt.bmp	 930 510
+./blocks/dirt.bmp	 0 540
+./blocks/code_block.bmp 30 540
+./blocks/coal_block.bmp 60 540
+./blocks/rose_pyroxene.bmp 90 540
+./blocks/cobblestone.bmp 120 540
+./blocks/stone.bmp 150 540
+./blocks/stone.bmp 180 540
+./blocks/rose_pyroxene.bmp 210 540
+./blocks/obsidian.bmp	 240 540
+./blocks/cobblestone.bmp 270 540
+./blocks/air.bmp 300 540
+./blocks/obsidian.bmp	 330 540
+./blocks/brick.bmp 360 540
+./blocks/coal_ore.bmp 390 540
+./blocks/brick.bmp 420 540
+./blocks/rose_pyroxene.bmp 450 540
+./blocks/grass_block.bmp	 480 540
+./blocks/air.bmp 510 540
+./blocks/cobblestone.bmp 540 540
+./blocks/grass_block.bmp	 570 540
+./blocks/code_block.bmp 600 540
+./blocks/air.bmp 630 540
+./blocks/brick.bmp 660 540
+./blocks/brick.bmp 690 540
+./blocks/rose_pyroxene.bmp 720 540
+./blocks/coal_block.bmp 750 540
+./blocks/coal_block.bmp 780 540
+./blocks/cobblestone.bmp 810 540
+./blocks/rose_pyroxene.bmp 840 540
+./blocks/stone.bmp 870 540
+./blocks/dirt.bmp	 900 540
+./blocks/air.bmp 930 540

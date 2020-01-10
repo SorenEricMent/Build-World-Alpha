@@ -75,6 +75,16 @@ for /l %%i in (1,1,14) do (
 		set /p arr%%i_%%j=<saves/map/chunks/%%i/x%%j.txt
 	)
 )
+set /a mapLoaderx=0
+set /a mapLoadery=0
+for /l %%i in (1,1,14) do (
+set /a mapLoadery+=30
+	for /l %%j in (1,1,30) do (
+		set /a mapLoaderx+=30
+		echo !arr%%i_%%j! !mapLoaderx! !mapLoadery!>> temp/render/map.bwdata
+		if !mapLoaderx! == 900 set /a mapLoaderx=0
+	)
+)
 for /l %%i in (30,30,420) do (
 	for /l %%j in (30,30,900) do (
 	image blocks/NULL.bmp %%j %%i
@@ -92,18 +102,8 @@ set /a barer1+=30
 goto RenderingMap
 
 :RenderingMap 
+image /l  temp/render/map.bwdata
 
-@echo off
-set /a mapLoaderx=0
-set /a mapLoadery=0
-for /l %%i in (1,1,14) do (
-set /a mapLoadery+=30
-	for /l %%j in (1,1,30) do (	
-	set /a mapLoaderx+=30
-	imageplus !arr%%i_%%j! !mapLoaderx!  !mapLoadery! 30 30
-	if !mapLoaderx! == 900 set /a mapLoaderx=0
-	)
-)
 image blocks/code_block.bmp 0 0
 imageplus GUI/breaker.png 115 460 60 60
 goto SelectBox
