@@ -1,7 +1,7 @@
 @echo off
 setlocal enabledelayedexpansion
 set handblock=blocks/stone.bmp
-set Version=Alpha Build89158
+set Version=Alpha Build89970
 set Copyright=WinslowSorenEricMent
 set /a time=0
 set Command_dir=command/
@@ -16,12 +16,6 @@ set choice6=blocks/grass_block.bmp
 
 title Build World %Version%
 mode con cols=150 lines=35
-rem wget http://file.blankwings.cn/files/updataTF.txt
-rem set /p TF=<updataTF.txt
-rem if %TF% == True goto T
-rem if %TF% == False goto main
-rem :T
-rem wget http://file.blankwings.cn/files/updata.bat
 goto main
 :main
 mode con cols=120 lines=35
@@ -151,9 +145,11 @@ Echo Copyright (c) 2017 ZYEHSOFT Corporation
 set /p Command="%Command_dir%>_"
 if %Command% == exitc goto SetBlockCheck
 if %Command% == reloadall goto main
+if %Command% == tempclear start "temp/render/tempClear.bat" && exit
 call %Command_dir%%Command%.exe
 
 :settings
 image /l temp/render/render.bwdata
-imageplus GUI/gray.png 0 0
-pause>nul
+imageplus GUI/gray.png 
+goto CommandSystem
+
